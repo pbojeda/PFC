@@ -1,0 +1,2507 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.13)  17 JUN 2011 11:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**book.tex
+(./book.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@datefmt=\count89
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+Package babel Info: Making ' an active character on input line 657.
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\TY@count=\count91
+\TY@linewidth=\dimen106
+\tymin=\dimen107
+\tymax=\dimen108
+\TY@tablewidth=\dimen109
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+\everycr=\toks19
+\minrowclearance=\skip45
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks20
+\float@box=\box26
+\@float@everytoks=\toks21
+\@floatcapt=\box27
+) (./book.aux
+(./agradecimientos.aux) (./intro.aux) (./main_014.aux) (./main_015.aux)
+(./main_016.aux) (./main_017.aux) (./main_022.aux) (./main_023.aux))
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen112
+\scratchbox=\box28
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen113
+\MPnumerator=\count98
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 436.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 46.
+
+[1
+
+
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `agradecimientos.aux'.
+
+
+(./agradecimientos.tex) [1
+
+] (./book.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+ [1
+
+
+
+])
+\tf@toc=\write3
+\openout3 = `book.toc'.
+
+ [2] (./book.lof [3
+
+] [4] [5]
+[6])
+\tf@lof=\write4
+\openout4 = `book.lof'.
+
+ [7] (./book.lot)
+\tf@lot=\write5
+\openout5 = `book.lot'.
+
+ [8
+
+]
+\openout2 = `intro.aux'.
+
+ (./intro.tex) [1
+
+
+
+]
+Cap\'{\i }tulo 1.
+(./main_011.tex [2
+
+
+]) (./main_012.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+ [3] [4] [5]
+[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25] [26] [27]) (./main_013.tex [28]
+<img/modelo.jpg, id=131, 455.36792pt x 283.72667pt>
+File: img/modelo.jpg Graphic file (type jpg)
+ <use img/modelo.jpg>
+[29] [30 <./img/modelo.jpg>]) [31]
+\openout2 = `main_014.aux'.
+
+ (./main_014.tex
+LaTeX Font Info:    Try loading font information for U+lasy on input line 14.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [32
+
+]
+<img/jpg/casos_uso/Actores.jpg, id=145, 433.62pt x 249.93375pt>
+File: img/jpg/casos_uso/Actores.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Actores.jpg>
+<img/jpg/casos_uso/Registro_e_informacion.jpg, id=146, 642.4pt x 401.5pt>
+File: img/jpg/casos_uso/Registro_e_informacion.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Registro_e_informacion.jpg> [33 <./img/jpg/casos_uso/Act
+ores.jpg>] <img/jpg/casos_uso/Generales.jpg, id=151, 524.96124pt x 449.68pt>
+File: img/jpg/casos_uso/Generales.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Generales.jpg> [34 <./img/jpg/casos_uso/Registro_e_infor
+macion.jpg>]
+<img/jpg/casos_uso/Acceso_y_Autentificacion.jpg, id=155, 513.92pt x 289.08pt>
+File: img/jpg/casos_uso/Acceso_y_Autentificacion.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Acceso_y_Autentificacion.jpg> [35 <./img/jpg/casos_uso/G
+enerales.jpg> <./img/jpg/casos_uso/Acceso_y_Autentificacion.jpg>]
+<img/jpg/casos_uso/Configuracion_Medico.jpg, id=159, 485.815pt x 361.35pt>
+File: img/jpg/casos_uso/Configuracion_Medico.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Configuracion_Medico.jpg>
+<img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg, id=160, 742.775pt x 385.44pt>
+File: img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg> [36 <./img/jpg/casos_uso/C
+onfiguracion_Medico.jpg>]
+<img/jpg/casos_uso/Configurar_Datos_Medico.jpg, id=164, 686.565pt x 357.335pt>
+File: img/jpg/casos_uso/Configurar_Datos_Medico.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Configurar_Datos_Medico.jpg>
+<img/jpg/casos_uso/Gestion_calendario.jpg, id=165, 698.61pt x 353.32pt>
+File: img/jpg/casos_uso/Gestion_calendario.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Gestion_calendario.jpg> [37 <./img/jpg/casos_uso/Configu
+rar_Cuenta_Medico.jpg> <./img/jpg/casos_uso/Configurar_Datos_Medico.jpg>]
+<img/jpg/casos_uso/Gestion_Pacientes.jpg, id=169, 513.92pt x 269.005pt>
+File: img/jpg/casos_uso/Gestion_Pacientes.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Gestion_Pacientes.jpg> [38 <./img/jpg/casos_uso/Gestion_
+calendario.jpg> <./img/jpg/casos_uso/Gestion_Pacientes.jpg>]
+<img/jpg/casos_uso/Estadisticas.jpg, id=173, 539.01375pt x 393.47pt>
+File: img/jpg/casos_uso/Estadisticas.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Estadisticas.jpg>
+<img/jpg/casos_uso/Gestion_plantillas.jpg, id=174, 662.475pt x 377.41pt>
+File: img/jpg/casos_uso/Gestion_plantillas.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Gestion_plantillas.jpg> [39 <./img/jpg/casos_uso/Estadis
+ticas.jpg>]
+<img/jpg/casos_uso/Administracion_y_Gestion.jpg, id=179, 610.28pt x 429.605pt>
+File: img/jpg/casos_uso/Administracion_y_Gestion.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Administracion_y_Gestion.jpg> [40 <./img/jpg/casos_uso/G
+estion_plantillas.jpg> <./img/jpg/casos_uso/Administracion_y_Gestion.jpg>]
+<img/jpg/casos_uso/Calendario_del_paciente.jpg, id=183, 761.84625pt x 365.365pt
+>
+File: img/jpg/casos_uso/Calendario_del_paciente.jpg Graphic file (type jpg)
+ <use img/jpg/casos_uso/Calendario_del_paciente.jpg>
+<img/jpg/casos_uso/Gestion_medicos.jpg, id=184, 653.44125pt x 550.055pt>
+File: img/jpg/casos_uso/Gestion_medicos.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Gestion_medicos.jpg> [41 <./img/jpg/casos_uso/Calendario
+_del_paciente.jpg>]
+<img/jpg/casos_uso/Ver_ficha_medica.jpg, id=189, 376.40625pt x 212.795pt>
+File: img/jpg/casos_uso/Ver_ficha_medica.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Ver_ficha_medica.jpg> [42 <./img/jpg/casos_uso/Gestion_m
+edicos.jpg> <./img/jpg/casos_uso/Ver_ficha_medica.jpg>]
+<img/jpg/casos_uso/Configuracion_pacientes.jpg, id=193, 437.635pt x 236.885pt>
+File: img/jpg/casos_uso/Configuracion_pacientes.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Configuracion_pacientes.jpg>
+<img/jpg/casos_uso/Cuenta.jpg, id=194, 662.475pt x 333.245pt>
+File: img/jpg/casos_uso/Cuenta.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Cuenta.jpg>
+<img/jpg/casos_uso/Datos.jpg, id=195, 545.03625pt x 301.125pt>
+File: img/jpg/casos_uso/Datos.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Datos.jpg> [43 <./img/jpg/casos_uso/Configuracion_pacien
+tes.jpg> <./img/jpg/casos_uso/Cuenta.jpg>]
+<img/jpg/casos_uso/Informacion_personal.jpg, id=199, 409.53pt x 248.93pt>
+File: img/jpg/casos_uso/Informacion_personal.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Informacion_personal.jpg>
+<img/jpg/casos_uso/Antecedentes.jpg, id=200, 675.52374pt x 444.66125pt>
+File: img/jpg/casos_uso/Antecedentes.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Antecedentes.jpg> [44 <./img/jpg/casos_uso/Datos.jpg> <.
+/img/jpg/casos_uso/Informacion_personal.jpg>]
+<img/jpg/casos_uso/Exploracion.jpg, id=204, 690.58pt x 248.93pt>
+File: img/jpg/casos_uso/Exploracion.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Exploracion.jpg>
+<img/jpg/casos_uso/Diagnosticos.jpg, id=205, 746.79pt x 365.365pt>
+File: img/jpg/casos_uso/Diagnosticos.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Diagnosticos.jpg> [45 <./img/jpg/casos_uso/Antecedentes.
+jpg> <./img/jpg/casos_uso/Exploracion.jpg>]
+<img/jpg/casos_uso/Tratamientos.jpg, id=210, 638.385pt x 349.305pt>
+File: img/jpg/casos_uso/Tratamientos.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Tratamientos.jpg>
+<img/jpg/casos_uso/Informes.jpg, id=211, 621.32124pt x 377.41pt>
+File: img/jpg/casos_uso/Informes.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Informes.jpg> [46 <./img/jpg/casos_uso/Diagnosticos.jpg>
+ <./img/jpg/casos_uso/Tratamientos.jpg>]
+<img/jpg/casos_uso/Observaciones.jpg, id=215, 600.2425pt x 216.81pt>
+File: img/jpg/casos_uso/Observaciones.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Observaciones.jpg>
+<img/jpg/casos_uso/Historial_ficha.jpg, id=216, 654.445pt x 413.545pt>
+File: img/jpg/casos_uso/Historial_ficha.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Historial_ficha.jpg> [47 <./img/jpg/casos_uso/Informes.j
+pg> <./img/jpg/casos_uso/Observaciones.jpg>]
+<img/jpg/casos_uso/Gestion_pruebas.jpg, id=220, 650.43pt x 389.455pt>
+File: img/jpg/casos_uso/Gestion_pruebas.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Gestion_pruebas.jpg> [48 <./img/jpg/casos_uso/Historial_
+ficha.jpg>] <img/jpg/casos_uso/Ver_Prueba.jpg, id=224, 572.1375pt x 453.695pt>
+File: img/jpg/casos_uso/Ver_Prueba.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Ver_Prueba.jpg>
+<img/jpg/casos_uso/Add_Prueba.jpg, id=225, 546.04pt x 453.695pt>
+File: img/jpg/casos_uso/Add_Prueba.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Add_Prueba.jpg> [49 <./img/jpg/casos_uso/Gestion_pruebas
+.jpg> <./img/jpg/casos_uso/Ver_Prueba.jpg>]
+<img/jpg/casos_uso/Solicitar_Prueba.jpg, id=229, 513.92pt x 453.695pt>
+File: img/jpg/casos_uso/Solicitar_Prueba.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Solicitar_Prueba.jpg> [50 <./img/jpg/casos_uso/Add_Prueb
+a.jpg> <./img/jpg/casos_uso/Solicitar_Prueba.jpg>]
+<img/jpg/casos_uso/Panel_de_Administrador.jpg, id=233, 703.62875pt x 505.89pt>
+File: img/jpg/casos_uso/Panel_de_Administrador.jpg Graphic file (type jpg)
+
+<use img/jpg/casos_uso/Panel_de_Administrador.jpg> [51 <./img/jpg/casos_uso/Pan
+el_de_Administrador.jpg>] [52] [53]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 492--509
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 511--543
+[][]
+ []
+
+[54]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 545--577
+[][]
+ []
+
+[55]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 579--608
+[][]
+ []
+
+[56]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 610--638
+[][]
+ []
+
+[57]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 640--657
+[][]
+ []
+
+[58]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 659--676
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 678--699
+[][]
+ []
+
+[59]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 701--722
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 724--741
+[][]
+ []
+
+[60]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 743--760
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 762--779
+[][]
+ []
+
+[61]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 781--810
+[][]
+ []
+
+[62]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 812--841
+[][]
+ []
+
+[63]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 843--860
+[][]
+ []
+
+[64]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 862--879
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 881--902
+[][]
+ []
+
+[65] [66]
+Underfull \hbox (badness 10000) in paragraph at lines 911--914
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--914
+
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 916--949
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 951--977
+[][]
+ []
+
+[67]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 979--1010
+[][]
+ []
+
+[68]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1012--1029
+[][]
+ []
+
+[69]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1031--1048
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1050--1067
+[][]
+ []
+
+[70]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1069--1086
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1088--1117
+[][]
+ []
+
+[71]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1119--1136
+[][]
+ []
+
+[72]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1138--1155
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1157--1174
+[][]
+ []
+
+[73]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1176--1193
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1195--1212
+[][]
+ []
+
+[74]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1214--1231
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1234--1251
+[][]
+ []
+
+[75]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1253--1278
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1280--1297
+[][]
+ []
+
+[76]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1299--1316
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1318--1342
+[][]
+ []
+
+[77]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1344--1361
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1363--1384
+[][]
+ []
+
+[78]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1386--1413
+[][]
+ []
+
+[79]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1415--1432
+[][]
+ []
+
+[80]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1434--1456
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1458--1483
+[][]
+ []
+
+[81]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1485--1502
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1504--1521
+[][]
+ []
+
+[82]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1523--1540
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1542--1559
+[][]
+ []
+
+[83]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1561--1578
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1580--1597
+[][]
+ []
+
+[84]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1599--1616
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1618--1635
+[][]
+ []
+
+[85]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1637--1654
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1656--1673
+[][]
+ []
+
+[86]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1675--1692
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1694--1711
+[][]
+ []
+
+[87]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1713--1730
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1732--1749
+[][]
+ []
+
+[88]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1751--1768
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1770--1787
+[][]
+ []
+
+[89]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1789--1806
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1808--1825
+[][]
+ []
+
+[90]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1827--1844
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1846--1863
+[][]
+ []
+
+[91]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1865--1882
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1884--1904
+[][]
+ []
+
+[92] [93]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1915--1932
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1934--1951
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1953--1970
+[][]
+ []
+
+[94]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1972--1989
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1991--2020
+[][]
+ []
+
+[95]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2022--2039
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2041--2069
+[][]
+ []
+
+[96]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2071--2096
+[][]
+ []
+
+[97]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2098--2115
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2117--2134
+[][]
+ []
+
+[98]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2136--2153
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2155--2172
+[][]
+ []
+
+[99]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2174--2197
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2199--2216
+[][]
+ []
+
+[100]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2218--2239
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2241--2266
+[][]
+ []
+
+[101]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2268--2296
+[][]
+ []
+
+[102]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2298--2315
+[][]
+ []
+
+[103]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2317--2334
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2336--2353
+[][]
+ []
+
+[104]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2355--2380
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2382--2407
+[][]
+ []
+
+[105]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2409--2426
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2428--2445
+[][]
+ []
+
+[106]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2447--2476
+[][]
+ []
+
+[107]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2478--2498
+[][]
+ []
+
+[108]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2500--2521
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2523--2540
+[][]
+ []
+
+[109] [110]
+Overfull \hbox (14.73763pt too wide) in paragraph at lines 2550--2573
+[]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2575--2592
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2594--2611
+[][]
+ []
+
+[111]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2613--2630
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2632--2653
+[][]
+ []
+
+[112]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2655--2676
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2678--2699
+[][]
+ []
+
+[113]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2701--2728
+[][]
+ []
+
+[114]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2730--2757
+[][]
+ []
+
+[115]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2759--2780
+[][]
+ []
+
+[116]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2782--2809
+[][]
+ []
+
+[117]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2811--2838
+[][]
+ []
+
+[118]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2840--2861
+[][]
+ []
+
+[119]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2863--2890
+[][]
+ []
+
+[120]
+Underfull \hbox (badness 1082) in paragraph at lines 2899--2899
+[]|\OT1/cmr/m/n/10.95 Que ha-ya diagn^^Sosti-cos pre-vios a~nadi-dos, que est^^
+Se se-lec-cio-na-do el
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2892--2919
+[][]
+ []
+
+[121]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2921--2938
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2940--2961
+[][]
+ []
+
+[122]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2963--2990
+[][]
+ []
+
+[123]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2992--3019
+[][]
+ []
+
+[124]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3021--3038
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3040--3061
+[][]
+ []
+
+[125]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3063--3090
+[][]
+ []
+
+[126]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3092--3119
+[][]
+ []
+
+[127]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3121--3138
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3140--3161
+[][]
+ []
+
+[128]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3163--3190
+[][]
+ []
+
+[129]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3192--3219
+[][]
+ []
+
+[130]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3221--3238
+[][]
+ []
+
+[131]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3240--3257
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3259--3281
+[][]
+ []
+
+[132]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3283--3304
+[][]
+ []
+
+[133]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3306--3333
+[][]
+ []
+
+[134]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3335--3352
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3354--3371
+[][]
+ []
+
+[135]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3373--3390
+[][]
+ []
+
+[136]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3402--3426
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3428--3445
+[][]
+ []
+
+[137]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3447--3464
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3466--3483
+[][]
+ []
+
+[138]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3485--3502
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3504--3521
+[][]
+ []
+
+[139]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3523--3540
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3542--3559
+[][]
+ []
+
+[140]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3561--3583
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3585--3607
+[][]
+ []
+
+[141]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3609--3631
+[][]
+ []
+
+) [142]
+\openout2 = `main_015.aux'.
+
+ (./main_015.tex
+<img/jpg/colaboraciones/17_Registrarse_paciente.jpg, id=528, 764.8575pt x 347.2
+975pt>
+File: img/jpg/colaboraciones/17_Registrarse_paciente.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/17_Registrarse_paciente.jpg> [143
+
+
+]
+<img/jpg/colaboraciones/18_RegistrarsePacienteError.jpg, id=532, 779.91376pt x 
+335.2525pt>
+File: img/jpg/colaboraciones/18_RegistrarsePacienteError.jpg Graphic file (type
+ jpg)
+ <use img/jpg/colaboraciones/18_RegistrarsePacienteError.jpg>
+<img/jpg/colaboraciones/19_RellenarInfo.jpg, id=533, 649.42625pt x 306.14375pt>
+File: img/jpg/colaboraciones/19_RellenarInfo.jpg Graphic file (type jpg)
+<use img/jpg/colaboraciones/19_RellenarInfo.jpg> [144 <./img/jpg/colaboraciones
+/17_Registrarse_paciente.jpg> <./img/jpg/colaboraciones/18_RegistrarsePacienteE
+rror.jpg>]
+<img/jpg/colaboraciones/20_RellenarInfoError.jpg, id=537, 649.42625pt x 295.102
+5pt>
+File: img/jpg/colaboraciones/20_RellenarInfoError.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/20_RellenarInfoError.jpg>
+<img/jpg/colaboraciones/21_RellenarInfoConsulta.jpg, id=538, 662.475pt x 314.17
+375pt>
+File: img/jpg/colaboraciones/21_RellenarInfoConsulta.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/21_RellenarInfoConsulta.jpg> [145 <./img/jpg/colab
+oraciones/19_RellenarInfo.jpg> <./img/jpg/colaboraciones/20_RellenarInfoError.j
+pg>] [146 <./img/jpg/colaboraciones/21_RellenarInfoConsulta.jpg>]
+<img/jpg/colaboraciones/23_Accesoyautentificacion.jpg, id=545, 619.31375pt x 33
+5.2525pt>
+File: img/jpg/colaboraciones/23_Accesoyautentificacion.jpg Graphic file (type j
+pg)
+ <use img/jpg/colaboraciones/23_Accesoyautentificacion.jpg>
+<img/jpg/colaboraciones/24_AccesoyautentificacionError.jpg, id=546, 619.31375pt
+ x 260.975pt>
+File: img/jpg/colaboraciones/24_AccesoyautentificacionError.jpg Graphic file (t
+ype jpg)
+ <use img/jpg/colaboraciones/24_AccesoyautentificacionError.jpg>
+[147 <./img/jpg/colaboraciones/23_Accesoyautentificacion.jpg> <./img/jpg/colabo
+raciones/24_AccesoyautentificacionError.jpg>]
+<img/jpg/colaboraciones/22_BuscarMedico.jpg, id=551, 708.6475pt x 265.99374pt>
+File: img/jpg/colaboraciones/22_BuscarMedico.jpg Graphic file (type jpg)
+
+<use img/jpg/colaboraciones/22_BuscarMedico.jpg> [148 <./img/jpg/colaboraciones
+/22_BuscarMedico.jpg>]
+<img/jpg/colaboraciones/1_ConfiguracionDatosMedico.jpg, id=555, 849.1725pt x 38
+7.4475pt>
+File: img/jpg/colaboraciones/1_ConfiguracionDatosMedico.jpg Graphic file (type 
+jpg)
+ <use img/jpg/colaboraciones/1_ConfiguracionDatosMedico.jpg>
+<img/jpg/colaboraciones/2_ConfiguracionDatosMedicoError1.jpg, id=556, 849.1725p
+t x 387.4475pt>
+File: img/jpg/colaboraciones/2_ConfiguracionDatosMedicoError1.jpg Graphic file 
+(type jpg)
+
+<use img/jpg/colaboraciones/2_ConfiguracionDatosMedicoError1.jpg> [149 <./img/j
+pg/colaboraciones/1_ConfiguracionDatosMedico.jpg>]
+<img/jpg/colaboraciones/3_ConfiguracionDatosMedicoError2.jpg, id=560, 822.07124
+pt x 335.2525pt>
+File: img/jpg/colaboraciones/3_ConfiguracionDatosMedicoError2.jpg Graphic file 
+(type jpg)
+
+<use img/jpg/colaboraciones/3_ConfiguracionDatosMedicoError2.jpg> [150 <./img/j
+pg/colaboraciones/2_ConfiguracionDatosMedicoError1.jpg> <./img/jpg/colaboracion
+es/3_ConfiguracionDatosMedicoError2.jpg>]
+<img/jpg/colaboraciones/4_ConfiguracionCuentaMedico.jpg, id=564, 777.90625pt x 
+391.4625pt>
+File: img/jpg/colaboraciones/4_ConfiguracionCuentaMedico.jpg Graphic file (type
+ jpg)
+ <use img/jpg/colaboraciones/4_ConfiguracionCuentaMedico.jpg>
+<img/jpg/colaboraciones/5_ConfiguracionCuentaMedicoError.jpg, id=565, 714.67pt 
+x 395.4775pt>
+File: img/jpg/colaboraciones/5_ConfiguracionCuentaMedicoError.jpg Graphic file 
+(type jpg)
+
+<use img/jpg/colaboraciones/5_ConfiguracionCuentaMedicoError.jpg> [151 <./img/j
+pg/colaboraciones/4_ConfiguracionCuentaMedico.jpg> <./img/jpg/colaboraciones/5_
+ConfiguracionCuentaMedicoError.jpg>]
+<img/jpg/colaboraciones/6_ConfiguracionHorarioMedico.jpg, id=569, 747.79375pt x
+ 375.4025pt>
+File: img/jpg/colaboraciones/6_ConfiguracionHorarioMedico.jpg Graphic file (typ
+e jpg)
+ <use img/jpg/colaboraciones/6_ConfiguracionHorarioMedico.jpg>
+<img/jpg/colaboraciones/7_ConfiguracionHorarioMedicoError.jpg, id=570, 678.535p
+t x 371.3875pt>
+File: img/jpg/colaboraciones/7_ConfiguracionHorarioMedicoError.jpg Graphic file
+ (type jpg)
+
+<use img/jpg/colaboraciones/7_ConfiguracionHorarioMedicoError.jpg> [152 <./img/
+jpg/colaboraciones/6_ConfiguracionHorarioMedico.jpg> <./img/jpg/colaboraciones/
+7_ConfiguracionHorarioMedicoError.jpg>]
+<img/jpg/colaboraciones/8_VistaSemanalMedico.jpg, id=574, 728.7225pt x 218.8175
+pt>
+File: img/jpg/colaboraciones/8_VistaSemanalMedico.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/8_VistaSemanalMedico.jpg>
+<img/jpg/colaboraciones/9_AnularCitaMedico.jpg, id=575, 756.8275pt x 519.9425pt
+>
+File: img/jpg/colaboraciones/9_AnularCitaMedico.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/9_AnularCitaMedico.jpg> [153 <./img/jpg/colaboraci
+ones/8_VistaSemanalMedico.jpg> <./img/jpg/colaboraciones/9_AnularCitaMedico.jpg
+>]
+<img/jpg/colaboraciones/10_AnularCitaMedicoCancelar.jpg, id=580, 756.8275pt x 3
+67.3725pt>
+File: img/jpg/colaboraciones/10_AnularCitaMedicoCancelar.jpg Graphic file (type
+ jpg)
+ <use img/jpg/colaboraciones/10_AnularCitaMedicoCancelar.jpg>
+<img/jpg/colaboraciones/11_VerFichaMedica.jpg, id=581, 752.8125pt x 323.2075pt>
+File: img/jpg/colaboraciones/11_VerFichaMedica.jpg Graphic file (type jpg)
+<use img/jpg/colaboraciones/11_VerFichaMedica.jpg>
+<img/jpg/colaboraciones/12_VerFichaMedicaError.jpg, id=582, 752.8125pt x 323.20
+75pt>
+File: img/jpg/colaboraciones/12_VerFichaMedicaError.jpg Graphic file (type jpg)
+
+ <use img/jpg/colaboraciones/12_VerFichaMedicaError.jpg> [154 <./img/jpg/colabo
+raciones/10_AnularCitaMedicoCancelar.jpg> <./img/jpg/colaboraciones/11_VerFicha
+Medica.jpg>]
+<img/jpg/colaboraciones/13_VerTodosPacientes.jpg, id=586, 680.5425pt x 214.8025
+pt>
+File: img/jpg/colaboraciones/13_VerTodosPacientes.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/13_VerTodosPacientes.jpg>
+<img/jpg/colaboraciones/14_VerTodosPacientesError.jpg, id=587, 680.5425pt x 214
+.8025pt>
+File: img/jpg/colaboraciones/14_VerTodosPacientesError.jpg Graphic file (type j
+pg)
+ <use img/jpg/colaboraciones/14_VerTodosPacientesError.jpg> [155 <./img/jpg/col
+aboraciones/12_VerFichaMedicaError.jpg> <./img/jpg/colaboraciones/13_VerTodosPa
+cientes.jpg>]
+<img/jpg/colaboraciones/15_BuscarPaciente.jpg, id=591, 646.415pt x 315.1775pt>
+File: img/jpg/colaboraciones/15_BuscarPaciente.jpg Graphic file (type jpg)
+
+<use img/jpg/colaboraciones/15_BuscarPaciente.jpg>
+<img/jpg/colaboraciones/16_BuscarPacienteError.jpg, id=592, 646.415pt x 315.177
+5pt>
+File: img/jpg/colaboraciones/16_BuscarPacienteError.jpg Graphic file (type jpg)
+
+ <use img/jpg/colaboraciones/16_BuscarPacienteError.jpg> [156 <./img/jpg/colabo
+raciones/14_VerTodosPacientesError.jpg> <./img/jpg/colaboraciones/15_BuscarPaci
+ente.jpg>] [157 <./img/jpg/colaboraciones/16_BuscarPacienteError.jpg>]
+<img/jpg/colaboraciones/25_VistaSemanalPaciente.jpg, id=599, 652.4375pt x 218.8
+175pt>
+File: img/jpg/colaboraciones/25_VistaSemanalPaciente.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/25_VistaSemanalPaciente.jpg>
+<img/jpg/colaboraciones/26_AnularCitaPaciente.jpg, id=600, 661.47125pt x 435.62
+75pt>
+File: img/jpg/colaboraciones/26_AnularCitaPaciente.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/26_AnularCitaPaciente.jpg> [158 <./img/jpg/colabor
+aciones/25_VistaSemanalPaciente.jpg>]
+<img/jpg/colaboraciones/27_AnularCitaPacienteCancelar.jpg, id=604, 652.4375pt x
+ 299.1175pt>
+File: img/jpg/colaboraciones/27_AnularCitaPacienteCancelar.jpg Graphic file (ty
+pe jpg)
+ <use img/jpg/colaboraciones/27_AnularCitaPacienteCancelar.jpg>
+[159 <./img/jpg/colaboraciones/26_AnularCitaPaciente.jpg> <./img/jpg/colaboraci
+ones/27_AnularCitaPacienteCancelar.jpg>]
+<img/jpg/colaboraciones/28_VerInfoMedico.jpg, id=609, 712.6625pt x 323.2075pt>
+File: img/jpg/colaboraciones/28_VerInfoMedico.jpg Graphic file (type jpg)
+
+<use img/jpg/colaboraciones/28_VerInfoMedico.jpg>
+<img/jpg/colaboraciones/29_PacienteBuscarMedico.jpg, id=610, 688.5725pt x 158.5
+925pt>
+File: img/jpg/colaboraciones/29_PacienteBuscarMedico.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/29_PacienteBuscarMedico.jpg>
+<img/jpg/colaboraciones/30_VerhoarioMedico.jpg, id=611, 684.5575pt x 331.2375pt
+>
+File: img/jpg/colaboraciones/30_VerhoarioMedico.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/30_VerhoarioMedico.jpg> [160 <./img/jpg/colaboraci
+ones/28_VerInfoMedico.jpg> <./img/jpg/colaboraciones/29_PacienteBuscarMedico.jp
+g>]
+<img/jpg/colaboraciones/31_AsignarseCita.jpg, id=615, 741.77126pt x 415.5525pt>
+File: img/jpg/colaboraciones/31_AsignarseCita.jpg Graphic file (type jpg)
+<use img/jpg/colaboraciones/31_AsignarseCita.jpg> [161 <./img/jpg/colaboracione
+s/30_VerhoarioMedico.jpg> <./img/jpg/colaboraciones/31_AsignarseCita.jpg>]
+<img/jpg/colaboraciones/32_VerAntecedentesFisiologicos.jpg, id=619, 807.015pt x
+ 286.06876pt>
+File: img/jpg/colaboraciones/32_VerAntecedentesFisiologicos.jpg Graphic file (t
+ype jpg)
+ <use img/jpg/colaboraciones/32_VerAntecedentesFisiologicos.jpg>
+<img/jpg/colaboraciones/33_AnadirAntecedente.jpg, id=620, 829.0975pt x 383.4325
+pt>
+File: img/jpg/colaboraciones/33_AnadirAntecedente.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/33_AnadirAntecedente.jpg> [162 <./img/jpg/colabora
+ciones/32_VerAntecedentesFisiologicos.jpg>]
+<img/jpg/colaboraciones/34_AnadirAntecedenteError.jpg, id=624, 829.0975pt x 419
+.5675pt>
+File: img/jpg/colaboraciones/34_AnadirAntecedenteError.jpg Graphic file (type j
+pg)
+ <use img/jpg/colaboraciones/34_AnadirAntecedenteError.jpg>
+<img/jpg/colaboraciones/35_ModificarAntecedente.jpg, id=625, 869.2475pt x 353.3
+2pt>
+File: img/jpg/colaboraciones/35_ModificarAntecedente.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/35_ModificarAntecedente.jpg> [163 <./img/jpg/colab
+oraciones/33_AnadirAntecedente.jpg> <./img/jpg/colaboraciones/34_AnadirAntecede
+nteError.jpg>]
+<img/jpg/colaboraciones/36_ModificarAntecedenteError.jpg, id=629, 835.12pt x 41
+6.55624pt>
+File: img/jpg/colaboraciones/36_ModificarAntecedenteError.jpg Graphic file (typ
+e jpg)
+ <use img/jpg/colaboraciones/36_ModificarAntecedenteError.jpg>
+[164 <./img/jpg/colaboraciones/35_ModificarAntecedente.jpg> <./img/jpg/colabora
+ciones/36_ModificarAntecedenteError.jpg>]
+<img/jpg/colaboraciones/37_VerDiagnosticos.jpg, id=633, 841.1425pt x 288.07625p
+t>
+File: img/jpg/colaboraciones/37_VerDiagnosticos.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/37_VerDiagnosticos.jpg>
+<img/jpg/colaboraciones/38_AnadirDiagnostico.jpg, id=634, 777.90625pt x 351.312
+5pt>
+File: img/jpg/colaboraciones/38_AnadirDiagnostico.jpg Graphic file (type jpg)
+ <use img/jpg/colaboraciones/38_AnadirDiagnostico.jpg>
+<img/jpg/colaboraciones/39_AnadirDiagnosticoError.jpg, id=635, 809.0225pt x 343
+.2825pt>
+File: img/jpg/colaboraciones/39_AnadirDiagnosticoError.jpg Graphic file (type j
+pg)
+ <use img/jpg/colaboraciones/39_AnadirDiagnosticoError.jpg> [165 <./img/jpg/col
+aboraciones/37_VerDiagnosticos.jpg> <./img/jpg/colaboraciones/38_AnadirDiagnost
+ico.jpg>]
+<img/jpg/colaboraciones/40_ModificarDiagnostico.jpg, id=640, 764.8575pt x 383.4
+325pt>
+File: img/jpg/colaboraciones/40_ModificarDiagnostico.jpg Graphic file (type jpg
+)
+ <use img/jpg/colaboraciones/40_ModificarDiagnostico.jpg>
+<img/jpg/colaboraciones/41_ModificarDiagnosticoError.jpg, id=641, 764.8575pt x 
+412.54124pt>
+File: img/jpg/colaboraciones/41_ModificarDiagnosticoError.jpg Graphic file (typ
+e jpg)
+ <use img/jpg/colaboraciones/41_ModificarDiagnosticoError.jpg>
+[166 <./img/jpg/colaboraciones/39_AnadirDiagnosticoError.jpg> <./img/jpg/colabo
+raciones/40_ModificarDiagnostico.jpg>] [167 <./img/jpg/colaboraciones/41_Modifi
+carDiagnosticoError.jpg>]
+<img/jpg/colaboraciones/42_VerificarMedico.jpg, id=648, 686.565pt x 319.1925pt>
+File: img/jpg/colaboraciones/42_VerificarMedico.jpg Graphic file (type jpg)
+<use img/jpg/colaboraciones/42_VerificarMedico.jpg>) [168 <./img/jpg/colaboraci
+ones/42_VerificarMedico.jpg>]
+\openout2 = `main_016.aux'.
+
+ (./main_016.tex
+<img/jpg/clases/7_Registrarse.jpg, id=652, 719.68875pt x 390.45876pt>
+File: img/jpg/clases/7_Registrarse.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/7_Registrarse.jpg>
+<img/jpg/clases/7_RellenarInfo.jpg, id=653, 706.64pt x 327.2225pt>
+File: img/jpg/clases/7_RellenarInfo.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/7_RellenarInfo.jpg>
+<img/jpg/clases/8_Varios.jpg, id=654, 687.56876pt x 636.3775pt>
+File: img/jpg/clases/8_Varios.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/8_Varios.jpg> [169
+
+
+ <./img/jpg/clases/7_Registrarse.jpg> <./img/jpg/clases/7_RellenarInfo.jpg>] [1
+70 <./img/jpg/clases/8_Varios.jpg>]
+<img/jpg/clases/9_AccesoYAutentificacion.jpg, id=661, 516.93124pt x 323.2075pt>
+File: img/jpg/clases/9_AccesoYAutentificacion.jpg Graphic file (type jpg)
+<use img/jpg/clases/9_AccesoYAutentificacion.jpg> [171 <./img/jpg/clases/9_Acce
+soYAutentificacion.jpg>]
+<img/jpg/clases/1_MedicoConfiguracion.jpg, id=666, 620.3175pt x 531.9875pt>
+File: img/jpg/clases/1_MedicoConfiguracion.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/1_MedicoConfiguracion.jpg> [172 <./img/jpg/clases/1_MedicoC
+onfiguracion.jpg>]
+<img/jpg/clases/2_MedicosConfiguracionDatos.jpg, id=670, 660.4675pt x 307.1475p
+t>
+File: img/jpg/clases/2_MedicosConfiguracionDatos.jpg Graphic file (type jpg)
+ <use img/jpg/clases/2_MedicosConfiguracionDatos.jpg>
+<img/jpg/clases/3_MedicoConfiguracionCuenta.jpg, id=671, 726.715pt x 483.8075pt
+>
+File: img/jpg/clases/3_MedicoConfiguracionCuenta.jpg Graphic file (type jpg)
+ <use img/jpg/clases/3_MedicoConfiguracionCuenta.jpg>
+<img/jpg/clases/4_MedicoConfiguracionHorario.jpg, id=672, 615.29875pt x 421.575
+pt>
+File: img/jpg/clases/4_MedicoConfiguracionHorario.jpg Graphic file (type jpg)
+ <use img/jpg/clases/4_MedicoConfiguracionHorario.jpg> [173 <./img/jpg/clases/2
+_MedicosConfiguracionDatos.jpg> <./img/jpg/clases/3_MedicoConfiguracionCuenta.j
+pg>]
+<img/jpg/clases/5_CalendarioMedico.jpg, id=676, 761.84625pt x 470.75874pt>
+File: img/jpg/clases/5_CalendarioMedico.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/5_CalendarioMedico.jpg>
+<img/jpg/clases/6_MedicosPacientes.jpg, id=677, 585.18625pt x 483.8075pt>
+File: img/jpg/clases/6_MedicosPacientes.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/6_MedicosPacientes.jpg> [174 <./img/jpg/clases/4_MedicoConf
+iguracionHorario.jpg> <./img/jpg/clases/5_CalendarioMedico.jpg>] [175 <./img/jp
+g/clases/6_MedicosPacientes.jpg>]
+<img/jpg/clases/10_PacientesCalendario.jpg, id=684, 767.86874pt x 450.68375pt>
+File: img/jpg/clases/10_PacientesCalendario.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/10_PacientesCalendario.jpg> [176 <./img/jpg/clases/10_Pacie
+ntesCalendario.jpg>]
+<img/jpg/clases/11_PacientesMedicos.jpg, id=688, 707.64375pt x 519.9425pt>
+File: img/jpg/clases/11_PacientesMedicos.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/11_PacientesMedicos.jpg> [177 <./img/jpg/clases/11_Paciente
+sMedicos.jpg>]
+<img/jpg/clases/12_Antecedentes.jpg, id=693, 812.03375pt x 467.7475pt>
+File: img/jpg/clases/12_Antecedentes.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/12_Antecedentes.jpg> [178 <./img/jpg/clases/12_Antecedentes
+.jpg>] <img/jpg/clases/13_Resto.jpg, id=697, 916.42375pt x 559.08875pt>
+File: img/jpg/clases/13_Resto.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/13_Resto.jpg> [179 <./img/jpg/clases/13_Resto.jpg>]
+<img/jpg/clases/14_Administrador.jpg, id=701, 892.33376pt x 458.71375pt>
+File: img/jpg/clases/14_Administrador.jpg Graphic file (type jpg)
+
+<use img/jpg/clases/14_Administrador.jpg>) [180 <./img/jpg/clases/14_Administra
+dor.jpg>]
+\openout2 = `main_017.aux'.
+
+ (./main_017.tex
+<img/jpg/acapas/capas.jpg, id=705, 509.905pt x 457.71pt>
+File: img/jpg/acapas/capas.jpg Graphic file (type jpg)
+
+<use img/jpg/acapas/capas.jpg> [181
+
+
+]
+Overfull \hbox (12.3144pt too wide) in paragraph at lines 25--26
+[]\OT1/cmr/m/n/10.95 Una vez vis-to el dia-gra-ma ge-ne-ral di-vi-di-do en dos 
+ca-pas prin-ci-pa-les, con los sub-sis-te-mas(paquetes)
+ []
+
+<img/jpg/acapas/Actividades_medicos.jpg, id=709, 511.9125pt x 252.945pt>
+File: img/jpg/acapas/Actividades_medicos.jpg Graphic file (type jpg)
+
+<use img/jpg/acapas/Actividades_medicos.jpg>
+<img/jpg/acapas/Actividades_Pacientes.jpg, id=710, 509.905pt x 172.645pt>
+File: img/jpg/acapas/Actividades_Pacientes.jpg Graphic file (type jpg)
+
+<use img/jpg/acapas/Actividades_Pacientes.jpg>
+<img/jpg/acapas/fichas_medicas.jpg, id=711, 509.905pt x 250.9375pt>
+File: img/jpg/acapas/fichas_medicas.jpg Graphic file (type jpg)
+
+<use img/jpg/acapas/fichas_medicas.jpg> [182 <./img/jpg/acapas/capas.jpg>]
+Overfull \vbox (19.7284pt too high) has occurred while \output is active []
+
+
+[183 <./img/jpg/acapas/Actividades_medicos.jpg> <./img/jpg/acapas/Actividades_P
+acientes.jpg> <./img/jpg/acapas/fichas_medicas.jpg>])
+Cap\'{\i }tulo 2.
+(./main_021.tex
+<img/jpg/despliegue/despliegue.jpg, id=719, 711.65875pt x 453.695pt>
+File: img/jpg/despliegue/despliegue.jpg Graphic file (type jpg)
+
+<use img/jpg/despliegue/despliegue.jpg> [184
+
+
+] [185 <./img/jpg/despliegue/despliegue.jpg>]
+Overfull \hbox (14.16983pt too wide) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/10.95 Una vez vis-to el dia-gra-ma ge-ne-ral di-vi-di-do en tres
+ ca-pas prin-ci-pa-les, con los sub-sis-te-mas(paquetes)
+ []
+
+<img/jpg/dcapas/capas.jpg, id=726, 509.905pt x 678.535pt>
+File: img/jpg/dcapas/capas.jpg Graphic file (type jpg)
+
+<use img/jpg/dcapas/capas.jpg> [186]
+Overfull \vbox (34.05167pt too high) has occurred while \output is active []
+
+
+[187 <./img/jpg/dcapas/capas.jpg>]
+<img/jpg/dcapas/Actividades_medicos.jpg, id=733, 511.9125pt x 252.945pt>
+File: img/jpg/dcapas/Actividades_medicos.jpg Graphic file (type jpg)
+
+<use img/jpg/dcapas/Actividades_medicos.jpg>
+<img/jpg/dcapas/Actividades_Pacientes.jpg, id=734, 509.905pt x 172.645pt>
+File: img/jpg/dcapas/Actividades_Pacientes.jpg Graphic file (type jpg)
+
+<use img/jpg/dcapas/Actividades_Pacientes.jpg>
+<img/jpg/dcapas/fichas_medicas.jpg, id=735, 509.905pt x 250.9375pt>
+File: img/jpg/dcapas/fichas_medicas.jpg Graphic file (type jpg)
+
+<use img/jpg/dcapas/fichas_medicas.jpg>) [188 <./img/jpg/dcapas/Actividades_med
+icos.jpg> <./img/jpg/dcapas/Actividades_Pacientes.jpg> <./img/jpg/dcapas/fichas
+_medicas.jpg>]
+\openout2 = `main_022.aux'.
+
+ (./main_022.tex [189
+
+]
+<img/png/mvc.png, id=743, 682.55pt x 264.99pt>
+File: img/png/mvc.png Graphic file (type png)
+ <use img/png/mvc.png>
+<img/jpg/dis_clases/clases.jpg, id=744, 841.1425pt x 845.1575pt>
+File: img/jpg/dis_clases/clases.jpg Graphic file (type jpg)
+
+<use img/jpg/dis_clases/clases.jpg> [190 <./img/png/mvc.png (PNG copy)>]
+[191 <./img/jpg/dis_clases/clases.jpg>] [192]
+<img/jpg/secuencia/01_BuscarMedico.jpg, id=755, 643.40375pt x 481.8pt>
+File: img/jpg/secuencia/01_BuscarMedico.jpg Graphic file (type jpg)
+
+<use img/jpg/secuencia/01_BuscarMedico.jpg> [193 <./img/jpg/secuencia/01_Buscar
+Medico.jpg>]
+<img/jpg/secuencia/02_VerInfoMedico.jpg, id=759, 764.8575pt x 529.98pt>
+File: img/jpg/secuencia/02_VerInfoMedico.jpg Graphic file (type jpg)
+
+<use img/jpg/secuencia/02_VerInfoMedico.jpg>) [194 <./img/jpg/secuencia/02_VerI
+nfoMedico.jpg>]
+\openout2 = `main_023.aux'.
+
+ (./main_023.tex [195
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+ [196]
+Package epstopdf Info: Source file: <img/eps/1_Inicio.eps>
+(epstopdf)                    date: 2011-03-26 12:49:09
+(epstopdf)                    size: 2488011 bytes
+(epstopdf)             Output file: <img/eps/1_Inicio-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-26 13:07:35
+(epstopdf)                    size: 122111 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/1_Inicio-eps-conve
+rted-to.pdf img/eps/1_Inicio.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/1_Inicio-eps-converted-to.pdf, id=773, 803.0pt x 603.25375pt>
+File: img/eps/1_Inicio-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/eps/1_Inicio-eps-converted-to.pdf> [197]
+Package epstopdf Info: Source file: <img/eps/4_Tour.eps>
+(epstopdf)                    date: 2011-03-26 13:30:02
+(epstopdf)                    size: 2488896 bytes
+(epstopdf)             Output file: <img/eps/4_Tour-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-26 13:36:07
+(epstopdf)                    size: 138827 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/4_Tour-eps-convert
+ed-to.pdf img/eps/4_Tour.eps>
+(epstopdf)             \includegraphics on input line 98.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/4_Tour-eps-converted-to.pdf, id=777, 803.0pt x 603.25375pt>
+File: img/eps/4_Tour-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/eps/4_Tour-eps-converted-to.pdf> [198 <./img/eps/1_Inicio-eps-converte
+d-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/6_Contacto.eps>
+(epstopdf)                    date: 2011-03-26 14:14:09
+(epstopdf)                    size: 2483674 bytes
+(epstopdf)             Output file: <img/eps/6_Contacto-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-26 14:14:45
+(epstopdf)                    size: 92861 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/6_Contacto-eps-con
+verted-to.pdf img/eps/6_Contacto.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/6_Contacto-eps-converted-to.pdf, id=785, 803.0pt x 603.25375pt>
+File: img/eps/6_Contacto-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/eps/6_Contacto-eps-converted-to.pdf> [199 <./img/eps/4_Tour-eps-conver
+ted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/3_Registro_Paciente.eps>
+(epstopdf)                    date: 2011-03-26 20:20:17
+(epstopdf)                    size: 2482071 bytes
+(epstopdf)             Output file: <img/eps/3_Registro_Paciente-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2011-03-26 20:24:47
+(epstopdf)                    size: 72437 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/3_Registro_Pacient
+e-eps-converted-to.pdf img/eps/3_Registro_Paciente.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/3_Registro_Paciente-eps-converted-to.pdf, id=793, 803.0pt x 603.25375p
+t>
+File: img/eps/3_Registro_Paciente-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/eps/3_Registro_Paciente-eps-converted-to.pdf> [200 <./img/eps/6_Conta
+cto-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/2_Registro_Medico.eps>
+(epstopdf)                    date: 2011-03-26 20:22:23
+(epstopdf)                    size: 2485785 bytes
+(epstopdf)             Output file: <img/eps/2_Registro_Medico-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2011-03-26 20:25:22
+(epstopdf)                    size: 91838 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/2_Registro_Medico-
+eps-converted-to.pdf img/eps/2_Registro_Medico.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/2_Registro_Medico-eps-converted-to.pdf, id=801, 803.0pt x 603.25375pt>
+File: img/eps/2_Registro_Medico-eps-converted-to.pdf Graphic file (type pdf)
+<use img/eps/2_Registro_Medico-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <img/eps/5_Acceso.eps>
+(epstopdf)                    date: 2011-03-26 20:29:31
+(epstopdf)                    size: 2480818 bytes
+(epstopdf)             Output file: <img/eps/5_Acceso-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-26 20:32:50
+(epstopdf)                    size: 62906 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/5_Acceso-eps-conve
+rted-to.pdf img/eps/5_Acceso.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/5_Acceso-eps-converted-to.pdf, id=802, 803.0pt x 603.25375pt>
+File: img/eps/5_Acceso-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/eps/5_Acceso-eps-converted-to.pdf> [201 <./img/eps/3_Registro_Paciente
+-eps-converted-to.pdf> <./img/eps/2_Registro_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/7_Dashboar_Medico_Inicial.eps>
+(epstopdf)                    date: 2011-03-27 02:34:41
+(epstopdf)                    size: 2486118 bytes
+(epstopdf)             Output file: <img/eps/7_Dashboar_Medico_Inicial-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2011-03-27 12:04:34
+(epstopdf)                    size: 145932 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/7_Dashboar_Medico_
+Inicial-eps-converted-to.pdf img/eps/7_Dashboar_Medico_Inicial.eps>
+(epstopdf)             \includegraphics on input line 180.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/7_Dashboar_Medico_Inicial-eps-converted-to.pdf, id=815, 803.0pt x 603.
+25375pt>
+File: img/eps/7_Dashboar_Medico_Inicial-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use img/eps/7_Dashboar_Medico_Inicial-eps-converted-to.pdf> [202 <./img/eps/5
+_Acceso-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/8_Dashboard_Medico_Tablero.eps>
+(epstopdf)                    date: 2011-03-27 12:19:15
+(epstopdf)                    size: 2482990 bytes
+(epstopdf)             Output file: <img/eps/8_Dashboard_Medico_Tablero-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2011-03-27 12:26:06
+(epstopdf)                    size: 115405 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/8_Dashboard_Medico
+_Tablero-eps-converted-to.pdf img/eps/8_Dashboard_Medico_Tablero.eps>
+(epstopdf)             \includegraphics on input line 198.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/8_Dashboard_Medico_Tablero-eps-converted-to.pdf, id=823, 803.0pt x 603
+.25375pt>
+File: img/eps/8_Dashboard_Medico_Tablero-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use img/eps/8_Dashboard_Medico_Tablero-eps-converted-to.pdf>
+[203 <./img/eps/7_Dashboar_Medico_Inicial-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/9_Dashboard_Medico_Tablero_Citas.e
+ps>
+(epstopdf)                    date: 2011-03-27 12:19:42
+(epstopdf)                    size: 2485627 bytes
+(epstopdf)             Output file: <img/eps/9_Dashboard_Medico_Tablero_Citas-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-27 12:26:07
+(epstopdf)                    size: 115057 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/9_Dashboard_Medico
+_Tablero_Citas-eps-converted-to.pdf img/eps/9_Dashboard_Medico_Tablero_Citas.ep
+s>
+(epstopdf)             \includegraphics on input line 215.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/9_Dashboard_Medico_Tablero_Citas-eps-converted-to.pdf, id=831, 803.0pt
+ x 603.25375pt>
+File: img/eps/9_Dashboard_Medico_Tablero_Citas-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use img/eps/9_Dashboard_Medico_Tablero_Citas-eps-converted-to.pdf> [204 <./img
+/eps/8_Dashboard_Medico_Tablero-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/10_Dashboard_Medico_Tablero_Estadi
+sticas.eps>
+(epstopdf)                    date: 2011-03-27 12:20:04
+(epstopdf)                    size: 2483310 bytes
+(epstopdf)             Output file: <img/eps/10_Dashboard_Medico_Tablero_Estadi
+sticas-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-27 12:26:08
+(epstopdf)                    size: 120955 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/10_Dashboard_Medic
+o_Tablero_Estadisticas-eps-converted-to.pdf img/eps/10_Dashboard_Medico_Tablero
+_Estadisticas.eps>
+(epstopdf)             \includegraphics on input line 222.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/10_Dashboard_Medico_Tablero_Estadisticas-eps-converted-to.pdf, id=839,
+ 803.0pt x 603.25375pt>
+File: img/eps/10_Dashboard_Medico_Tablero_Estadisticas-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use img/eps/10_Dashboard_Medico_Tablero_Estadisticas-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <img/eps/11_Dashboard_Medico_Tablero_Pacien
+te.eps>
+(epstopdf)                    date: 2011-03-27 12:20:33
+(epstopdf)                    size: 2485780 bytes
+(epstopdf)             Output file: <img/eps/11_Dashboard_Medico_Tablero_Pacien
+te-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-27 12:26:08
+(epstopdf)                    size: 119021 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/11_Dashboard_Medic
+o_Tablero_Paciente-eps-converted-to.pdf img/eps/11_Dashboard_Medico_Tablero_Pac
+iente.eps>
+(epstopdf)             \includegraphics on input line 229.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/11_Dashboard_Medico_Tablero_Paciente-eps-converted-to.pdf, id=840, 803
+.0pt x 603.25375pt>
+File: img/eps/11_Dashboard_Medico_Tablero_Paciente-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use img/eps/11_Dashboard_Medico_Tablero_Paciente-eps-converted-to.pdf>
+[205 <./img/eps/9_Dashboard_Medico_Tablero_Citas-eps-converted-to.pdf> <./img/e
+ps/10_Dashboard_Medico_Tablero_Estadisticas-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/13_Calendario_Medico.eps>
+(epstopdf)                    date: 2011-03-28 11:57:14
+(epstopdf)                    size: 2488816 bytes
+(epstopdf)             Output file: <img/eps/13_Calendario_Medico-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2011-03-28 12:09:21
+(epstopdf)                    size: 140331 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/13_Calendario_Medi
+co-eps-converted-to.pdf img/eps/13_Calendario_Medico.eps>
+(epstopdf)             \includegraphics on input line 250.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/13_Calendario_Medico-eps-converted-to.pdf, id=852, 803.0pt x 603.25375
+pt>
+File: img/eps/13_Calendario_Medico-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use img/eps/13_Calendario_Medico-eps-converted-to.pdf> [206 <./img/eps/11_Das
+hboard_Medico_Tablero_Paciente-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/15_Calendario_Medico_Configuracion
+.eps>
+(epstopdf)                    date: 2011-03-28 11:58:04
+(epstopdf)                    size: 2487599 bytes
+(epstopdf)             Output file: <img/eps/15_Calendario_Medico_Configuracion
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-28 12:09:21
+(epstopdf)                    size: 137993 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/15_Calendario_Medi
+co_Configuracion-eps-converted-to.pdf img/eps/15_Calendario_Medico_Configuracio
+n.eps>
+(epstopdf)             \includegraphics on input line 266.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/15_Calendario_Medico_Configuracion-eps-converted-to.pdf, id=860, 803.0
+pt x 603.25375pt>
+File: img/eps/15_Calendario_Medico_Configuracion-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use img/eps/15_Calendario_Medico_Configuracion-eps-converted-to.pdf> [207 <./i
+mg/eps/13_Calendario_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/14_Calendario_Medico_Anular.eps>
+(epstopdf)                    date: 2011-03-28 11:57:48
+(epstopdf)                    size: 2485611 bytes
+(epstopdf)             Output file: <img/eps/14_Calendario_Medico_Anular-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2011-03-28 12:09:22
+(epstopdf)                    size: 111501 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/14_Calendario_Medi
+co_Anular-eps-converted-to.pdf img/eps/14_Calendario_Medico_Anular.eps>
+(epstopdf)             \includegraphics on input line 273.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/14_Calendario_Medico_Anular-eps-converted-to.pdf, id=869, 803.0pt x 60
+3.25375pt>
+File: img/eps/14_Calendario_Medico_Anular-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use img/eps/14_Calendario_Medico_Anular-eps-converted-to.pdf>
+[208 <./img/eps/15_Calendario_Medico_Configuracion-eps-converted-to.pdf> <./img
+/eps/14_Calendario_Medico_Anular-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/16_Calendario_Medico_Notificacione
+s.eps>
+(epstopdf)                    date: 2011-03-28 11:58:40
+(epstopdf)                    size: 2485963 bytes
+(epstopdf)             Output file: <img/eps/16_Calendario_Medico_Notificacione
+s-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-28 12:09:22
+(epstopdf)                    size: 122251 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/16_Calendario_Medi
+co_Notificaciones-eps-converted-to.pdf img/eps/16_Calendario_Medico_Notificacio
+nes.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/16_Calendario_Medico_Notificaciones-eps-converted-to.pdf, id=881, 803.
+0pt x 603.25375pt>
+File: img/eps/16_Calendario_Medico_Notificaciones-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use img/eps/16_Calendario_Medico_Notificaciones-eps-converted-to.pdf> [209 <./
+img/eps/16_Calendario_Medico_Notificaciones-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/17_Pacientes_Medico.eps>
+(epstopdf)                    date: 2011-03-28 12:36:59
+(epstopdf)                    size: 2485620 bytes
+(epstopdf)             Output file: <img/eps/17_Pacientes_Medico-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2011-03-28 12:53:03
+(epstopdf)                    size: 116345 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/17_Pacientes_Medic
+o-eps-converted-to.pdf img/eps/17_Pacientes_Medico.eps>
+(epstopdf)             \includegraphics on input line 320.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/17_Pacientes_Medico-eps-converted-to.pdf, id=889, 803.0pt x 603.25375p
+t>
+File: img/eps/17_Pacientes_Medico-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/eps/17_Pacientes_Medico-eps-converted-to.pdf> [210 <./img/eps/17_Paci
+entes_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/19_Estadisticas_Medicos.eps>
+(epstopdf)                    date: 2011-03-28 12:54:50
+(epstopdf)                    size: 2483801 bytes
+(epstopdf)             Output file: <img/eps/19_Estadisticas_Medicos-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:25:47
+(epstopdf)                    size: 128022 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/19_Estadisticas_Me
+dicos-eps-converted-to.pdf img/eps/19_Estadisticas_Medicos.eps>
+(epstopdf)             \includegraphics on input line 343.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/19_Estadisticas_Medicos-eps-converted-to.pdf, id=897, 803.0pt x 603.25
+375pt>
+File: img/eps/19_Estadisticas_Medicos-eps-converted-to.pdf Graphic file (type p
+df)
+ <use img/eps/19_Estadisticas_Medicos-eps-converted-to.pdf> [211 <./img/eps/19_
+Estadisticas_Medicos-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/18_Plantillas_Medico.eps>
+(epstopdf)                    date: 2011-03-28 13:30:39
+(epstopdf)                    size: 2487316 bytes
+(epstopdf)             Output file: <img/eps/18_Plantillas_Medico-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:37:58
+(epstopdf)                    size: 127980 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/18_Plantillas_Medi
+co-eps-converted-to.pdf img/eps/18_Plantillas_Medico.eps>
+(epstopdf)             \includegraphics on input line 370.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/18_Plantillas_Medico-eps-converted-to.pdf, id=905, 803.0pt x 603.25375
+pt>
+File: img/eps/18_Plantillas_Medico-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use img/eps/18_Plantillas_Medico-eps-converted-to.pdf> [212 <./img/eps/18_Pla
+ntillas_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/22_1_Administracion_Historial_Medi
+co.eps>
+(epstopdf)                    date: 2011-03-28 13:40:55
+(epstopdf)                    size: 2486650 bytes
+(epstopdf)             Output file: <img/eps/22_1_Administracion_Historial_Medi
+co-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:54:13
+(epstopdf)                    size: 125749 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/22_1_Administracio
+n_Historial_Medico-eps-converted-to.pdf img/eps/22_1_Administracion_Historial_M
+edico.eps>
+(epstopdf)             \includegraphics on input line 391.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/22_1_Administracion_Historial_Medico-eps-converted-to.pdf, id=913, 803
+.0pt x 603.25375pt>
+File: img/eps/22_1_Administracion_Historial_Medico-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use img/eps/22_1_Administracion_Historial_Medico-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <img/eps/20_Administracion_Medico.eps>
+(epstopdf)                    date: 2011-03-28 13:39:13
+(epstopdf)                    size: 2485522 bytes
+(epstopdf)             Output file: <img/eps/20_Administracion_Medico-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:53:40
+(epstopdf)                    size: 120812 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/20_Administracion_
+Medico-eps-converted-to.pdf img/eps/20_Administracion_Medico.eps>
+(epstopdf)             \includegraphics on input line 400.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/20_Administracion_Medico-eps-converted-to.pdf, id=914, 803.0pt x 603.2
+5375pt>
+File: img/eps/20_Administracion_Medico-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use img/eps/20_Administracion_Medico-eps-converted-to.pdf> [213 <./img/eps/22
+_1_Administracion_Historial_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/21_Administracion_Medico2.eps>
+(epstopdf)                    date: 2011-03-28 13:39:31
+(epstopdf)                    size: 2483824 bytes
+(epstopdf)             Output file: <img/eps/21_Administracion_Medico2-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:53:41
+(epstopdf)                    size: 117922 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/21_Administracion_
+Medico2-eps-converted-to.pdf img/eps/21_Administracion_Medico2.eps>
+(epstopdf)             \includegraphics on input line 417.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/21_Administracion_Medico2-eps-converted-to.pdf, id=923, 803.0pt x 603.
+25375pt>
+File: img/eps/21_Administracion_Medico2-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use img/eps/21_Administracion_Medico2-eps-converted-to.pdf> [214 <./img/eps/2
+0_Administracion_Medico-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/22_Administracion_Medico1.eps>
+(epstopdf)                    date: 2011-03-28 13:39:57
+(epstopdf)                    size: 2485854 bytes
+(epstopdf)             Output file: <img/eps/22_Administracion_Medico1-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2011-03-28 13:53:41
+(epstopdf)                    size: 123406 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/22_Administracion_
+Medico1-eps-converted-to.pdf img/eps/22_Administracion_Medico1.eps>
+(epstopdf)             \includegraphics on input line 424.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/22_Administracion_Medico1-eps-converted-to.pdf, id=931, 803.0pt x 603.
+25375pt>
+File: img/eps/22_Administracion_Medico1-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use img/eps/22_Administracion_Medico1-eps-converted-to.pdf> [215 <./img/eps/2
+1_Administracion_Medico2-eps-converted-to.pdf> <./img/eps/22_Administracion_Med
+ico1-eps-converted-to.pdf>]
+Overfull \hbox (5.7223pt too wide) in paragraph at lines 439--440
+[][] 
+ []
+
+Package epstopdf Info: Source file: <img/eps/23_Configuracion_Medico.eps>
+(epstopdf)                    date: 2011-03-28 14:13:31
+(epstopdf)                    size: 2485992 bytes
+(epstopdf)             Output file: <img/eps/23_Configuracion_Medico-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2011-03-28 14:25:39
+(epstopdf)                    size: 121188 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/23_Configuracion_M
+edico-eps-converted-to.pdf img/eps/23_Configuracion_Medico.eps>
+(epstopdf)             \includegraphics on input line 443.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/23_Configuracion_Medico-eps-converted-to.pdf, id=943, 803.0pt x 603.25
+375pt>
+File: img/eps/23_Configuracion_Medico-eps-converted-to.pdf Graphic file (type p
+df)
+ <use img/eps/23_Configuracion_Medico-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <img/eps/24_Configuracion_Medico2.eps>
+(epstopdf)                    date: 2011-03-28 14:13:55
+(epstopdf)                    size: 2483759 bytes
+(epstopdf)             Output file: <img/eps/24_Configuracion_Medico2-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2011-03-28 14:25:40
+(epstopdf)                    size: 107125 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/24_Configuracion_M
+edico2-eps-converted-to.pdf img/eps/24_Configuracion_Medico2.eps>
+(epstopdf)             \includegraphics on input line 452.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/24_Configuracion_Medico2-eps-converted-to.pdf, id=944, 803.0pt x 603.2
+5375pt>
+File: img/eps/24_Configuracion_Medico2-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use img/eps/24_Configuracion_Medico2-eps-converted-to.pdf> [216 <./img/eps/23
+_Configuracion_Medico-eps-converted-to.pdf>] [217 <./img/eps/24_Configuracion_M
+edico2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/25_Tablero_Paciente.eps>
+(epstopdf)                    date: 2011-03-29 11:00:07
+(epstopdf)                    size: 2485592 bytes
+(epstopdf)             Output file: <img/eps/25_Tablero_Paciente-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2011-03-29 11:07:31
+(epstopdf)                    size: 136209 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/25_Tablero_Pacient
+e-eps-converted-to.pdf img/eps/25_Tablero_Paciente.eps>
+(epstopdf)             \includegraphics on input line 491.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/25_Tablero_Paciente-eps-converted-to.pdf, id=960, 803.0pt x 603.25375p
+t>
+File: img/eps/25_Tablero_Paciente-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/eps/25_Tablero_Paciente-eps-converted-to.pdf> [218 <./img/eps/25_Tabl
+ero_Paciente-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/26_Tablero_Paciente1.eps>
+(epstopdf)                    date: 2011-03-29 11:00:26
+(epstopdf)                    size: 2485635 bytes
+(epstopdf)             Output file: <img/eps/26_Tablero_Paciente1-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2011-03-29 11:18:14
+(epstopdf)                    size: 111850 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/26_Tablero_Pacient
+e1-eps-converted-to.pdf img/eps/26_Tablero_Paciente1.eps>
+(epstopdf)             \includegraphics on input line 508.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/26_Tablero_Paciente1-eps-converted-to.pdf, id=968, 803.0pt x 603.25375
+pt>
+File: img/eps/26_Tablero_Paciente1-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use img/eps/26_Tablero_Paciente1-eps-converted-to.pdf> [219 <./img/eps/26_Tab
+lero_Paciente1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/27_Calendario_Paciente.eps>
+(epstopdf)                    date: 2011-03-29 11:19:50
+(epstopdf)                    size: 2488653 bytes
+(epstopdf)             Output file: <img/eps/27_Calendario_Paciente-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2011-03-29 11:22:07
+(epstopdf)                    size: 137766 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/27_Calendario_Paci
+ente-eps-converted-to.pdf img/eps/27_Calendario_Paciente.eps>
+(epstopdf)             \includegraphics on input line 534.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/27_Calendario_Paciente-eps-converted-to.pdf, id=977, 803.0pt x 603.253
+75pt>
+File: img/eps/27_Calendario_Paciente-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use img/eps/27_Calendario_Paciente-eps-converted-to.pdf> [220 <./img/eps/27_C
+alendario_Paciente-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/28_Medicos_Paciente.eps>
+(epstopdf)                    date: 2011-03-29 11:26:12
+(epstopdf)                    size: 2486080 bytes
+(epstopdf)             Output file: <img/eps/28_Medicos_Paciente-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2011-03-29 20:54:44
+(epstopdf)                    size: 125557 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/28_Medicos_Pacient
+e-eps-converted-to.pdf img/eps/28_Medicos_Paciente.eps>
+(epstopdf)             \includegraphics on input line 565.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/28_Medicos_Paciente-eps-converted-to.pdf, id=985, 803.0pt x 603.25375p
+t>
+File: img/eps/28_Medicos_Paciente-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/eps/28_Medicos_Paciente-eps-converted-to.pdf> [221 <./img/eps/28_Medi
+cos_Paciente-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/28_1_Cuenta_Pacientes.eps>
+(epstopdf)                    date: 2011-03-29 20:55:52
+(epstopdf)                    size: 2483362 bytes
+(epstopdf)             Output file: <img/eps/28_1_Cuenta_Pacientes-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2011-03-29 21:03:30
+(epstopdf)                    size: 100700 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/28_1_Cuenta_Pacien
+tes-eps-converted-to.pdf img/eps/28_1_Cuenta_Pacientes.eps>
+(epstopdf)             \includegraphics on input line 592.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/28_1_Cuenta_Pacientes-eps-converted-to.pdf, id=993, 803.0pt x 603.2537
+5pt>
+File: img/eps/28_1_Cuenta_Pacientes-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use img/eps/28_1_Cuenta_Pacientes-eps-converted-to.pdf> [222 <./img/eps/28_1_
+Cuenta_Pacientes-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/29_1_Historial_Medico.eps>
+(epstopdf)                    date: 2011-03-30 14:05:55
+(epstopdf)                    size: 2484626 bytes
+(epstopdf)             Output file: <img/eps/29_1_Historial_Medico-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2011-03-30 14:06:21
+(epstopdf)                    size: 122088 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/29_1_Historial_Med
+ico-eps-converted-to.pdf img/eps/29_1_Historial_Medico.eps>
+(epstopdf)             \includegraphics on input line 636.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/29_1_Historial_Medico-eps-converted-to.pdf, id=1001, 803.0pt x 603.253
+75pt>
+File: img/eps/29_1_Historial_Medico-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use img/eps/29_1_Historial_Medico-eps-converted-to.pdf> [223]
+Package epstopdf Info: Source file: <img/eps/29_Historial_Paciente.eps>
+(epstopdf)                    date: 2011-03-29 21:05:04
+(epstopdf)                    size: 2486667 bytes
+(epstopdf)             Output file: <img/eps/29_Historial_Paciente-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2011-03-29 21:25:25
+(epstopdf)                    size: 130370 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/29_Historial_Pacie
+nte-eps-converted-to.pdf img/eps/29_Historial_Paciente.eps>
+(epstopdf)             \includegraphics on input line 643.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/29_Historial_Paciente-eps-converted-to.pdf, id=1005, 803.0pt x 603.253
+75pt>
+File: img/eps/29_Historial_Paciente-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use img/eps/29_Historial_Paciente-eps-converted-to.pdf> [224 <./img/eps/29_1_
+Historial_Medico-eps-converted-to.pdf> <./img/eps/29_Historial_Paciente-eps-con
+verted-to.pdf>]
+Overfull \hbox (5.7223pt too wide) in paragraph at lines 661--662
+[][] 
+ []
+
+Package epstopdf Info: Source file: <img/eps/30_Antecedentes_pacientes.eps>
+(epstopdf)                    date: 2011-03-29 21:06:30
+(epstopdf)                    size: 2487300 bytes
+(epstopdf)             Output file: <img/eps/30_Antecedentes_pacientes-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2011-03-29 22:45:13
+(epstopdf)                    size: 148092 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/30_Antecedentes_pa
+cientes-eps-converted-to.pdf img/eps/30_Antecedentes_pacientes.eps>
+(epstopdf)             \includegraphics on input line 673.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/30_Antecedentes_pacientes-eps-converted-to.pdf, id=1017, 803.0pt x 603
+.25375pt>
+File: img/eps/30_Antecedentes_pacientes-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use img/eps/30_Antecedentes_pacientes-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <img/eps/31_Antecedentes_pacientes1.eps>
+(epstopdf)                    date: 2011-03-29 21:06:48
+(epstopdf)                    size: 2486568 bytes
+(epstopdf)             Output file: <img/eps/31_Antecedentes_pacientes1-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2011-03-29 22:45:13
+(epstopdf)                    size: 135840 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/31_Antecedentes_pa
+cientes1-eps-converted-to.pdf img/eps/31_Antecedentes_pacientes1.eps>
+(epstopdf)             \includegraphics on input line 680.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/31_Antecedentes_pacientes1-eps-converted-to.pdf, id=1018, 803.0pt x 60
+3.25375pt>
+File: img/eps/31_Antecedentes_pacientes1-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use img/eps/31_Antecedentes_pacientes1-eps-converted-to.pdf>
+[225 <./img/eps/30_Antecedentes_pacientes-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/32_Antecedentes_pacientes2.eps>
+(epstopdf)                    date: 2011-03-29 21:07:04
+(epstopdf)                    size: 2486648 bytes
+(epstopdf)             Output file: <img/eps/32_Antecedentes_pacientes2-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2011-03-29 22:45:14
+(epstopdf)                    size: 140556 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/32_Antecedentes_pa
+cientes2-eps-converted-to.pdf img/eps/32_Antecedentes_pacientes2.eps>
+(epstopdf)             \includegraphics on input line 687.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/32_Antecedentes_pacientes2-eps-converted-to.pdf, id=1027, 803.0pt x 60
+3.25375pt>
+File: img/eps/32_Antecedentes_pacientes2-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use img/eps/32_Antecedentes_pacientes2-eps-converted-to.pdf>
+[226 <./img/eps/31_Antecedentes_pacientes1-eps-converted-to.pdf> <./img/eps/32_
+Antecedentes_pacientes2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/33_Exploracion_paciente.eps>
+(epstopdf)                    date: 2011-03-29 21:07:19
+(epstopdf)                    size: 2486062 bytes
+(epstopdf)             Output file: <img/eps/33_Exploracion_paciente-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2011-03-29 22:51:51
+(epstopdf)                    size: 127239 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/33_Exploracion_pac
+iente-eps-converted-to.pdf img/eps/33_Exploracion_paciente.eps>
+(epstopdf)             \includegraphics on input line 711.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/33_Exploracion_paciente-eps-converted-to.pdf, id=1039, 803.0pt x 603.2
+5375pt>
+File: img/eps/33_Exploracion_paciente-eps-converted-to.pdf Graphic file (type p
+df)
+ <use img/eps/33_Exploracion_paciente-eps-converted-to.pdf> [227 <./img/eps/33_
+Exploracion_paciente-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/34_Pruebas_Pacientes.eps>
+(epstopdf)                    date: 2011-03-29 21:07:35
+(epstopdf)                    size: 2485856 bytes
+(epstopdf)             Output file: <img/eps/34_Pruebas_Pacientes-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2011-03-29 23:06:05
+(epstopdf)                    size: 138621 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/34_Pruebas_Pacient
+es-eps-converted-to.pdf img/eps/34_Pruebas_Pacientes.eps>
+(epstopdf)             \includegraphics on input line 752.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/34_Pruebas_Pacientes-eps-converted-to.pdf, id=1047, 803.0pt x 603.2537
+5pt>
+File: img/eps/34_Pruebas_Pacientes-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use img/eps/34_Pruebas_Pacientes-eps-converted-to.pdf> [228]
+Package epstopdf Info: Source file: <img/eps/35_Pruebas_Pacientes2.eps>
+(epstopdf)                    date: 2011-03-29 21:07:54
+(epstopdf)                    size: 2487412 bytes
+(epstopdf)             Output file: <img/eps/35_Pruebas_Pacientes2-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2011-03-29 23:06:06
+(epstopdf)                    size: 155733 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/35_Pruebas_Pacient
+es2-eps-converted-to.pdf img/eps/35_Pruebas_Pacientes2.eps>
+(epstopdf)             \includegraphics on input line 759.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/35_Pruebas_Pacientes2-eps-converted-to.pdf, id=1051, 803.0pt x 603.253
+75pt>
+File: img/eps/35_Pruebas_Pacientes2-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use img/eps/35_Pruebas_Pacientes2-eps-converted-to.pdf> [229 <./img/eps/34_Pr
+uebas_Pacientes-eps-converted-to.pdf> <./img/eps/35_Pruebas_Pacientes2-eps-conv
+erted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/36_Diagnosticos_Pacientes.eps>
+(epstopdf)                    date: 2011-03-29 21:08:14
+(epstopdf)                    size: 2486090 bytes
+(epstopdf)             Output file: <img/eps/36_Diagnosticos_Pacientes-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2011-03-29 23:25:55
+(epstopdf)                    size: 129098 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/36_Diagnosticos_Pa
+cientes-eps-converted-to.pdf img/eps/36_Diagnosticos_Pacientes.eps>
+(epstopdf)             \includegraphics on input line 777.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/36_Diagnosticos_Pacientes-eps-converted-to.pdf, id=1063, 803.0pt x 603
+.25375pt>
+File: img/eps/36_Diagnosticos_Pacientes-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use img/eps/36_Diagnosticos_Pacientes-eps-converted-to.pdf> [230 <./img/eps/3
+6_Diagnosticos_Pacientes-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/eps/99_Administrador.eps>
+(epstopdf)                    date: 2011-03-29 21:08:33
+(epstopdf)                    size: 2485105 bytes
+(epstopdf)             Output file: <img/eps/99_Administrador-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2011-03-29 23:32:35
+(epstopdf)                    size: 123302 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/eps/99_Administrador-e
+ps-converted-to.pdf img/eps/99_Administrador.eps>
+(epstopdf)             \includegraphics on input line 807.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/eps/99_Administrador-eps-converted-to.pdf, id=1071, 803.0pt x 603.25375pt>
+File: img/eps/99_Administrador-eps-converted-to.pdf Graphic file (type pdf)
+<use img/eps/99_Administrador-eps-converted-to.pdf> [231 <./img/eps/99_Administ
+rador-eps-converted-to.pdf>] (./book.aux (./agradecimientos.aux) (./intro.aux)
+(./main_014.aux) (./main_015.aux) (./main_016.aux) (./main_017.aux)
+(./main_022.aux) (./main_023.aux)
+Runaway argument?
+{toc 
+./book.aux:70: File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.70 \@input{main_023.aux}
+                          
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+) ) )
+(\end occurred when \iftrue on line 85 was incomplete)
+(\end occurred when \ifnum on line 85 was incomplete) 
+Here is how much of TeX's memory you used:
+ 3540 strings out of 493747
+ 71053 string characters out of 3143546
+ 114454 words of memory out of 3000000
+ 6565 multiletter control sequences out of 15000+200000
+ 12348 words of font info for 43 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,10n,27p,1738b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2010/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2010/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2010/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2010/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/ty
+pe1/public/amsfonts/latxfont/lasy10.pfb>
+Output written on book.pdf (241 pages, 9628709 bytes).
+PDF statistics:
+ 1129 PDF objects out of 1200 (max. 8388607)
+ 648 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 706 words of extra memory for PDF output out of 10000 (max. 10000000)
+

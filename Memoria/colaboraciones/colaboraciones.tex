@@ -1,0 +1,67 @@
+% ----------------------------------
+% Cap Análisis
+% ----------------------------------
+%	Incluye
+%		Colaboraciones
+%
+\documentclass[a4paper,oneside,11pt]{book}
+
+\usepackage[spanish,activeacute]{babel}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+\usepackage{tabulary}
+\usepackage{graphicx}
+\usepackage{lscape} 
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{float}
+
+\oddsidemargin=0.2cm
+\headsep=1cm
+\textheight=21cm
+\textwidth=16cm
+
+\setcounter{secnumdepth}{3}
+
+\definecolor{gris}{gray}{0.80}
+\definecolor{gris2}{gray}{0.90}
+\definecolor{negro}{gray}{0}
+
+% Personalizamos la separación entre párrafos...
+\parskip=6pt
+
+% Personalizamos el identado en la primera línea del nuevo párrafo...
+\parindent=10pt
+
+\begin{document}
+	
+\chapter{Análisis} % (fold)
+\label{cha:analisis}
+
+	\section{Diagramas de colaboración} % (fold)
+	\label{sec:diagramas_de_colaboracion}
+	
+		Los diagramas de interacción son diagramas que describen cómo grupos de objetos colaboran para conseguir algún fin. Estos diagramas muestran objetos, así como los mensajes que se pasan entre ellos dentro del caso de uso, es decir, capturan el comportamiento de los casos de uso.
+		
+		Hay dos tipos de diagrama de interacción, ambos basados en la misma información, pero cada uno enfatizando un aspecto particular: Diagramas de Secuencia y \textbf{Diagramas de Colaboración.}
+	
+		Un diagrama de colaboración, se puede decir que es una forma alternativa al diagrama de secuencias a la hora de mostrar un escenario. \textbf{Este tipo de diagrama muestra las interacciones que ocurren entre los objetos que participan en una situación determinada.}
+
+		\medskip
+		
+		\fcolorbox{negro}{gris}{\parbox{15cm}{El \textit{diagrama de colaboración} se enfoca en la relación entre los objetos y su topología de comunicación. En estos diagramas, los mensajes enviados de un objeto a otro se representan mediante flechas, acompañado del nombre del mensaje, los parámetros (si los tiene) y la secuencia del mensaje. Cada mensaje lleva un número de secuencia que denota cuál es el mensaje que le precede. La secuencia de los mensajes y los flujos de ejecución concurrentes deben determinarse explícitamente mediante números de secuencia.}}
+		
+		\medskip
+			
+		Estos diagramas están indicados para mostrar una situación o flujo de programa específico y son considerados uno de los mejores diagramas para mostrar o explicar rápidamente un proceso dentro de la lógica del programa.
+		
+		En este documento se detallan las principales colaboraciones relacionadas con todos los aspectos del proyecto. Por tanto, vamos a ver los diagramas de colaboración que hacen referencia a las \textit{Actividades Generales, las Actividades Específicas de los Médicos, las de los Pacientes, las del Administrador, y además, las colaboraciones relacionadas con las Fichas Médicas.}
+		
+	
+	% section diagramas_de_colaboracion (end)
+
+
+
+% chapter análisis (end)
+
+\end{document}

@@ -1,0 +1,104 @@
+% Opciones empleadas:
+%
+%	a4paper -> indica el tamaño del papel, en este caso A4.
+%	11pt -> tamaño de la fuente 11 puntos.
+%	oneside -> sólo escribimos en una cara del folio.
+% 
+% Otras opciones interesantes:
+%
+%	twoside -> escribimos a doble cara.
+%	openbib -> para que las referencias bibliográficas tengan un salto de línea entre cada campo de la referencia.
+%
+\documentclass[a4paper,oneside,11pt]{book}
+
+\usepackage[spanish,activeacute]{babel}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+\usepackage{tabulary}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{float}
+
+% configuración de márgenes
+\oddsidemargin=0.2cm
+\headsep=1cm
+\textheight=21cm
+\textwidth=16cm
+
+\setcounter{secnumdepth}{3}
+
+\definecolor{gris}{gray}{0.80}
+\definecolor{gris2}{gray}{0.90}
+\definecolor{negro}{gray}{0}
+
+% Personalizamos la separación entre párrafos...
+\parskip=6pt
+
+% Personalizamos el identado en la primera línea del nuevo párrafo...
+\parindent=10pt
+
+\title{\bf Desarrollo Aplicación Web de Gestión de Consultas Médicas Particulares}
+\author{Pablo Eduardo Ojeda Vasco}
+\date{\today}
+
+\begin{document}
+	\maketitle
+	
+	% Página de agradecimientos
+	\newpage 
+	\thispagestyle{empty} 
+	\include{agradecimientos}
+	
+	% Glosario		
+	%\makegloss
+	
+	% FRONTMATTER: TOC, LOF, LOT y descripcion/organizacion de la memoria.
+	\frontmatter
+
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	%\include{frontmatter_intro}
+	
+	% MAINMATTER: El contenido, capitulo a capitulo, de la memoria.
+	\mainmatter
+	
+	\include{intro} % Introducción
+	
+	% Análisis
+	\chapter{Análisis} % (fold)
+	\label{cha:analisis}
+		\input{main_011} % Descripcion general
+		\input{main_012} % Lista de características
+		\input{main_013} % Modelo del dominio
+		\include{main_014} % Casos de uso
+		\include{main_015} % Diagrama de colaboraciones
+		\include{main_016} % Diagrama de clases del análisis
+		\include{main_017} % Diagrama de capas del análisis
+	% chapter análisis (end)
+	
+	\chapter{Diseño} % (fold)
+	\label{cha:diseno}
+		\input{main_021} % Diseño de la arquitectura
+		\include{main_022} % Diseño de componentes
+		\include{main_023} % Diseño de interfaces
+	
+	% chapter diseño (end)
+	
+	
+	% ----------------- Glosario --------------------------- 
+	% Para mostrar todas las entradas aunque no estén referenciadas en el documento
+	%\newgloss{default}{.gls}{Glosario términos del modelo del dominio}{glsplain}
+	%\gloss[nocite]{*} 		
+	%\printgloss{glsbase,glosario}
+
+	% ----------- Referencias bibliograficas ------------------ 
+	%\nocite{*}	% Se usa para indicar en la bibliografia las referencias no citadas.
+	%\bibliography{bibliografia}
+	%\bibliographystyle{plain}
+
+
+
+\end{document}
+
