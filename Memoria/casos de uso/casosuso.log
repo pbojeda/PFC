@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.13)  21 APR 2011 12:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.25)  4 SEP 2011 12:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,18 +7,19 @@ entering extended mode
 (./casosuso.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
-, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
-kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
-german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
- bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
-telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
- lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
-nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
- turkmen, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/book.cls
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/bk11.clo
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/bk11.clo
 File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -34,13 +35,13 @@ File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2008/07/06 v3.8l The Babel package
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/spanish.ldf
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/spanish.ldf
 Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.def
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -54,19 +55,19 @@ Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
 Package babel Info: Making ' an active character on input line 657.
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/utf8.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -216,7 +217,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -247,7 +248,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -271,10 +272,10 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tabulary/tabulary.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/array.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen104
 \extrarowheight=\dimen105
@@ -288,45 +289,52 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \tymax=\dimen108
 \TY@tablewidth=\dimen109
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count92
 ))
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
 \everycr=\toks19
 \minrowclearance=\skip45
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count93
 \float@exts=\toks20
@@ -348,7 +356,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
-(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen112
@@ -359,39 +367,41 @@ LaTeX Font Info:    ... okay on input line 35.
 \MPscratchCnt=\count97
 \MPscratchDim=\dimen113
 \MPnumerator=\count98
+\makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks23
-) (/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -400,9 +410,9 @@ Package etexcmds Info: Could not find \expanded.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 436.
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -414,887 +424,900 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 49.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
 
 
-{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<img/jpg/casos_uso/Actores.jpg, id=11, 433.62pt x 249.93375pt>
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<img/jpg/casos_uso/Actores.jpg, id=12, 433.62pt x 249.93375pt>
 File: img/jpg/casos_uso/Actores.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Actores.jpg> [2 <./img/jpg/casos_uso/Actores.jpg>]
-<img/jpg/casos_uso/Registro_e_informacion.jpg, id=16, 642.4pt x 401.5pt>
+<use img/jpg/casos_uso/Actores.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Actores.jpg used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 164.00717pt.
+ [2 <./img/jpg/casos_uso/Actores.jpg>]
+<img/jpg/casos_uso/Registro_e_informacion.jpg, id=17, 642.4pt x 401.5pt>
 File: img/jpg/casos_uso/Registro_e_informacion.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Registro_e_informacion.jpg>
-<img/jpg/casos_uso/Generales.jpg, id=17, 524.96124pt x 449.68pt>
+Package pdftex.def Info: img/jpg/casos_uso/Registro_e_informacion.jpg used on i
+nput line 94.
+(pdftex.def)             Requested size: 398.33858pt x 248.9703pt.
+
+<img/jpg/casos_uso/Generales.jpg, id=18, 524.96124pt x 449.68pt>
 File: img/jpg/casos_uso/Generales.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Generales.jpg> [3 <./img/jpg/casos_uso/Registro_e_inform
-acion.jpg>]
-<img/jpg/casos_uso/Acceso_y_Autentificacion.jpg, id=21, 513.92pt x 289.08pt>
+<use img/jpg/casos_uso/Generales.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Generales.jpg used on input line 111
+.
+(pdftex.def)             Requested size: 341.43306pt x 292.48065pt.
+ [3 <./img/jpg/casos_uso/Registro_e_informacion.jpg>]
+<img/jpg/casos_uso/Acceso_y_Autentificacion.jpg, id=22, 513.92pt x 289.08pt>
 File: img/jpg/casos_uso/Acceso_y_Autentificacion.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Acceso_y_Autentificacion.jpg> [4 <./img/jpg/casos_uso/Ge
-nerales.jpg> <./img/jpg/casos_uso/Acceso_y_Autentificacion.jpg>]
-<img/jpg/casos_uso/Configuracion_Medico.jpg, id=25, 485.815pt x 361.35pt>
+<use img/jpg/casos_uso/Acceso_y_Autentificacion.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Acceso_y_Autentificacion.jpg used on
+ input line 118.
+(pdftex.def)             Requested size: 341.43306pt x 192.05934pt.
+ [4 <./img/jpg/casos_uso/Generales.jpg> <./img/jpg/casos_uso/Acceso_y_Autentifi
+cacion.jpg>]
+<img/jpg/casos_uso/Configuracion_Medico.jpg, id=26, 485.815pt x 361.35pt>
 File: img/jpg/casos_uso/Configuracion_Medico.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Configuracion_Medico.jpg>
-<img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg, id=26, 742.775pt x 385.44pt>
+Package pdftex.def Info: img/jpg/casos_uso/Configuracion_Medico.jpg used on inp
+ut line 140.
+(pdftex.def)             Requested size: 341.43306pt x 253.95781pt.
+
+<img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg, id=27, 742.775pt x 385.44pt>
 File: img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg> [5 <./img/jpg/casos_uso/Co
-nfiguracion_Medico.jpg>]
-<img/jpg/casos_uso/Configurar_Datos_Medico.jpg, id=30, 686.565pt x 357.335pt>
+<use img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg used on
+ input line 147.
+(pdftex.def)             Requested size: 426.79134pt x 221.47336pt.
+ [5 <./img/jpg/casos_uso/Configuracion_Medico.jpg>]
+<img/jpg/casos_uso/Configurar_Datos_Medico.jpg, id=31, 686.565pt x 357.335pt>
 File: img/jpg/casos_uso/Configurar_Datos_Medico.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Configurar_Datos_Medico.jpg>
-<img/jpg/casos_uso/Gestion_calendario.jpg, id=31, 698.61pt x 353.32pt>
+Package pdftex.def Info: img/jpg/casos_uso/Configurar_Datos_Medico.jpg used on 
+input line 156.
+(pdftex.def)             Requested size: 426.79134pt x 222.12881pt.
+
+<img/jpg/casos_uso/Gestion_calendario.jpg, id=32, 698.61pt x 353.32pt>
 File: img/jpg/casos_uso/Gestion_calendario.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Gestion_calendario.jpg> [6 <./img/jpg/casos_uso/Configur
-ar_Cuenta_Medico.jpg> <./img/jpg/casos_uso/Configurar_Datos_Medico.jpg>]
-<img/jpg/casos_uso/Gestion_Pacientes.jpg, id=35, 513.92pt x 269.005pt>
+<use img/jpg/casos_uso/Gestion_calendario.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Gestion_calendario.jpg used on input
+ line 170.
+(pdftex.def)             Requested size: 398.33858pt x 201.45918pt.
+ [6 <./img/jpg/casos_uso/Configurar_Cuenta_Medico.jpg> <./img/jpg/casos_uso/Con
+figurar_Datos_Medico.jpg>]
+<img/jpg/casos_uso/Gestion_Pacientes.jpg, id=36, 513.92pt x 269.005pt>
 File: img/jpg/casos_uso/Gestion_Pacientes.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Gestion_Pacientes.jpg> [7 <./img/jpg/casos_uso/Gestion_c
-alendario.jpg> <./img/jpg/casos_uso/Gestion_Pacientes.jpg>]
-<img/jpg/casos_uso/Estadisticas.jpg, id=40, 539.01375pt x 393.47pt>
+<use img/jpg/casos_uso/Gestion_Pacientes.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Gestion_Pacientes.jpg used on input 
+line 181.
+(pdftex.def)             Requested size: 284.52756pt x 148.93422pt.
+ [7 <./img/jpg/casos_uso/Gestion_calendario.jpg> <./img/jpg/casos_uso/Gestion_P
+acientes.jpg>]
+<img/jpg/casos_uso/Estadisticas.jpg, id=41, 539.01375pt x 393.47pt>
 File: img/jpg/casos_uso/Estadisticas.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Estadisticas.jpg>
-<img/jpg/casos_uso/Gestion_plantillas.jpg, id=41, 662.475pt x 377.41pt>
-File: img/jpg/casos_uso/Gestion_plantillas.jpg Graphic file (type jpg)
+Package pdftex.def Info: img/jpg/casos_uso/Estadisticas.jpg used on input line 
+201.
+(pdftex.def)             Requested size: 341.43306pt x 249.24428pt.
 
-<use img/jpg/casos_uso/Gestion_plantillas.jpg> [8 <./img/jpg/casos_uso/Estadist
-icas.jpg>]
-<img/jpg/casos_uso/Administracion_y_Gestion.jpg, id=45, 610.28pt x 429.605pt>
+<img/jpg/casos_uso/Administracion_y_Gestion.jpg, id=42, 610.28pt x 429.605pt>
 File: img/jpg/casos_uso/Administracion_y_Gestion.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Administracion_y_Gestion.jpg> [9 <./img/jpg/casos_uso/Ge
-stion_plantillas.jpg> <./img/jpg/casos_uso/Administracion_y_Gestion.jpg>]
-<img/jpg/casos_uso/Calendario_del_paciente.jpg, id=49, 761.84625pt x 365.365pt>
+<use img/jpg/casos_uso/Administracion_y_Gestion.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Administracion_y_Gestion.jpg used on
+ input line 208.
+(pdftex.def)             Requested size: 398.33858pt x 280.41988pt.
+ [8 <./img/jpg/casos_uso/Estadisticas.jpg>]
+<img/jpg/casos_uso/Calendario_del_paciente.jpg, id=46, 761.84625pt x 365.365pt>
 File: img/jpg/casos_uso/Calendario_del_paciente.jpg Graphic file (type jpg)
 <use img/jpg/casos_uso/Calendario_del_paciente.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Calendario_del_paciente.jpg used on 
+input line 224.
+(pdftex.def)             Requested size: 398.33858pt x 191.03342pt.
+ [9 <./img/jpg/casos_uso/Administracion_y_Gestion.jpg>]
 <img/jpg/casos_uso/Gestion_medicos.jpg, id=50, 653.44125pt x 550.055pt>
 File: img/jpg/casos_uso/Gestion_medicos.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Gestion_medicos.jpg> [10 <./img/jpg/casos_uso/Calendario
-_del_paciente.jpg>]
+<use img/jpg/casos_uso/Gestion_medicos.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Gestion_medicos.jpg used on input li
+ne 243.
+(pdftex.def)             Requested size: 398.33858pt x 335.31483pt.
+ [10 <./img/jpg/casos_uso/Calendario_del_paciente.jpg>]
 <img/jpg/casos_uso/Ver_ficha_medica.jpg, id=54, 376.40625pt x 212.795pt>
 File: img/jpg/casos_uso/Ver_ficha_medica.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Ver_ficha_medica.jpg> [11 <./img/jpg/casos_uso/Gestion_m
-edicos.jpg> <./img/jpg/casos_uso/Ver_ficha_medica.jpg>]
+<use img/jpg/casos_uso/Ver_ficha_medica.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Ver_ficha_medica.jpg used on input l
+ine 250.
+(pdftex.def)             Requested size: 284.52756pt x 160.86542pt.
+ [11 <./img/jpg/casos_uso/Gestion_medicos.jpg> <./img/jpg/casos_uso/Ver_ficha_m
+edica.jpg>]
 <img/jpg/casos_uso/Configuracion_pacientes.jpg, id=58, 437.635pt x 236.885pt>
 File: img/jpg/casos_uso/Configuracion_pacientes.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Configuracion_pacientes.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Configuracion_pacientes.jpg used on 
+input line 264.
+(pdftex.def)             Requested size: 284.52756pt x 154.01318pt.
+
 <img/jpg/casos_uso/Cuenta.jpg, id=59, 662.475pt x 333.245pt>
 File: img/jpg/casos_uso/Cuenta.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Cuenta.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Cuenta.jpg used on input line 271.
+(pdftex.def)             Requested size: 398.33858pt x 200.37566pt.
+
 <img/jpg/casos_uso/Datos.jpg, id=60, 545.03625pt x 301.125pt>
 File: img/jpg/casos_uso/Datos.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Datos.jpg> [12 <./img/jpg/casos_uso/Configuracion_pacien
-tes.jpg> <./img/jpg/casos_uso/Cuenta.jpg>]
+<use img/jpg/casos_uso/Datos.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Datos.jpg used on input line 278.
+(pdftex.def)             Requested size: 341.43306pt x 188.63457pt.
+ [12 <./img/jpg/casos_uso/Configuracion_pacientes.jpg> <./img/jpg/casos_uso/Cue
+nta.jpg>]
 <img/jpg/casos_uso/Informacion_personal.jpg, id=64, 409.53pt x 248.93pt>
 File: img/jpg/casos_uso/Informacion_personal.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Informacion_personal.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Informacion_personal.jpg used on inp
+ut line 296.
+(pdftex.def)             Requested size: 312.9803pt x 190.25609pt.
+
 <img/jpg/casos_uso/Antecedentes.jpg, id=65, 675.52374pt x 444.66125pt>
 File: img/jpg/casos_uso/Antecedentes.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Antecedentes.jpg> [13 <./img/jpg/casos_uso/Datos.jpg> <.
-/img/jpg/casos_uso/Informacion_personal.jpg>]
+<use img/jpg/casos_uso/Antecedentes.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Antecedentes.jpg used on input line 
+307.
+(pdftex.def)             Requested size: 398.33858pt x 262.21216pt.
+ [13 <./img/jpg/casos_uso/Datos.jpg> <./img/jpg/casos_uso/Informacion_personal.
+jpg>]
 <img/jpg/casos_uso/Exploracion.jpg, id=70, 690.58pt x 248.93pt>
 File: img/jpg/casos_uso/Exploracion.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Exploracion.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Exploracion.jpg used on input line 3
+18.
+(pdftex.def)             Requested size: 398.33858pt x 143.58943pt.
+
 <img/jpg/casos_uso/Diagnosticos.jpg, id=71, 746.79pt x 365.365pt>
 File: img/jpg/casos_uso/Diagnosticos.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Diagnosticos.jpg> [14 <./img/jpg/casos_uso/Antecedentes.
-jpg> <./img/jpg/casos_uso/Exploracion.jpg>]
+<use img/jpg/casos_uso/Diagnosticos.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Diagnosticos.jpg used on input line 
+329.
+(pdftex.def)             Requested size: 398.33858pt x 194.88576pt.
+ [14 <./img/jpg/casos_uso/Antecedentes.jpg> <./img/jpg/casos_uso/Exploracion.jp
+g>]
 <img/jpg/casos_uso/Tratamientos.jpg, id=75, 638.385pt x 349.305pt>
 File: img/jpg/casos_uso/Tratamientos.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Tratamientos.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Tratamientos.jpg used on input line 
+340.
+(pdftex.def)             Requested size: 369.88582pt x 202.38916pt.
+
 <img/jpg/casos_uso/Informes.jpg, id=76, 621.32124pt x 377.41pt>
 File: img/jpg/casos_uso/Informes.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Informes.jpg> [15 <./img/jpg/casos_uso/Diagnosticos.jpg>
- <./img/jpg/casos_uso/Tratamientos.jpg>]
+<use img/jpg/casos_uso/Informes.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Informes.jpg used on input line 351.
+
+(pdftex.def)             Requested size: 398.33858pt x 241.96196pt.
+ [15 <./img/jpg/casos_uso/Diagnosticos.jpg> <./img/jpg/casos_uso/Tratamientos.j
+pg>]
 <img/jpg/casos_uso/Observaciones.jpg, id=80, 600.2425pt x 216.81pt>
 File: img/jpg/casos_uso/Observaciones.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Observaciones.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Observaciones.jpg used on input line
+ 362.
+(pdftex.def)             Requested size: 398.33858pt x 143.8857pt.
+
 <img/jpg/casos_uso/Historial_ficha.jpg, id=81, 654.445pt x 413.545pt>
 File: img/jpg/casos_uso/Historial_ficha.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Historial_ficha.jpg> [16 <./img/jpg/casos_uso/Informes.j
-pg> <./img/jpg/casos_uso/Observaciones.jpg>]
+<use img/jpg/casos_uso/Historial_ficha.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Historial_ficha.jpg used on input li
+ne 373.
+(pdftex.def)             Requested size: 398.33858pt x 251.71309pt.
+ [16 <./img/jpg/casos_uso/Informes.jpg> <./img/jpg/casos_uso/Observaciones.jpg>
+]
 <img/jpg/casos_uso/Gestion_pruebas.jpg, id=85, 650.43pt x 389.455pt>
 File: img/jpg/casos_uso/Gestion_pruebas.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Gestion_pruebas.jpg> [17 <./img/jpg/casos_uso/Historial_
-ficha.jpg>] <img/jpg/casos_uso/Ver_Prueba.jpg, id=89, 572.1375pt x 453.695pt>
+<use img/jpg/casos_uso/Gestion_pruebas.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Gestion_pruebas.jpg used on input li
+ne 390.
+(pdftex.def)             Requested size: 369.88582pt x 221.48059pt.
+ [17 <./img/jpg/casos_uso/Historial_ficha.jpg>] <img/jpg/casos_uso/Ver_Prueba.j
+pg, id=89, 572.1375pt x 453.695pt>
 File: img/jpg/casos_uso/Ver_Prueba.jpg Graphic file (type jpg)
 
 <use img/jpg/casos_uso/Ver_Prueba.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Ver_Prueba.jpg used on input line 39
+7.
+(pdftex.def)             Requested size: 284.52756pt x 225.62852pt.
+
 <img/jpg/casos_uso/Add_Prueba.jpg, id=90, 546.04pt x 453.695pt>
 File: img/jpg/casos_uso/Add_Prueba.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Add_Prueba.jpg> [18 <./img/jpg/casos_uso/Gestion_pruebas
-.jpg> <./img/jpg/casos_uso/Ver_Prueba.jpg>]
+<use img/jpg/casos_uso/Add_Prueba.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Add_Prueba.jpg used on input line 40
+4.
+(pdftex.def)             Requested size: 284.52756pt x 236.40735pt.
+ [18 <./img/jpg/casos_uso/Gestion_pruebas.jpg> <./img/jpg/casos_uso/Ver_Prueba.
+jpg>]
 <img/jpg/casos_uso/Solicitar_Prueba.jpg, id=94, 513.92pt x 453.695pt>
 File: img/jpg/casos_uso/Solicitar_Prueba.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Solicitar_Prueba.jpg> [19 <./img/jpg/casos_uso/Add_Prueb
-a.jpg> <./img/jpg/casos_uso/Solicitar_Prueba.jpg>]
+<use img/jpg/casos_uso/Solicitar_Prueba.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Solicitar_Prueba.jpg used on input l
+ine 411.
+(pdftex.def)             Requested size: 284.52756pt x 251.18758pt.
+ [19 <./img/jpg/casos_uso/Add_Prueba.jpg> <./img/jpg/casos_uso/Solicitar_Prueba
+.jpg>]
 <img/jpg/casos_uso/Panel_de_Administrador.jpg, id=99, 703.62875pt x 505.89pt>
 File: img/jpg/casos_uso/Panel_de_Administrador.jpg Graphic file (type jpg)
 
-<use img/jpg/casos_uso/Panel_de_Administrador.jpg> [20 <./img/jpg/casos_uso/Pan
-el_de_Administrador.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 466.
+<use img/jpg/casos_uso/Panel_de_Administrador.jpg>
+Package pdftex.def Info: img/jpg/casos_uso/Panel_de_Administrador.jpg used on i
+nput line 432.
+(pdftex.def)             Requested size: 426.79134pt x 306.84789pt.
+ [20 <./img/jpg/casos_uso/Panel_de_Administrador.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 454.
 
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 466.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 454.
  [21] [22]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 530--547
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 518--535
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 549--581
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 537--566
 [][]
  []
 
 [23]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 583--615
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 568--596
 [][]
  []
 
 [24]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 617--646
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 598--627
 [][]
  []
 
 [25]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 648--676
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 629--657
 [][]
  []
 
 [26]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 678--695
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 659--679
 [][]
  []
 
 [27]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 697--714
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 681--698
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 716--737
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 700--721
 [][]
  []
 
 [28]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 739--760
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 723--744
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 762--779
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 746--766
 [][]
  []
 
 [29]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 781--798
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 768--787
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 800--817
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 789--806
 [][]
  []
 
 [30]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 819--848
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 808--837
 [][]
  []
 
 [31]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 850--879
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 839--868
 [][]
  []
 
 [32]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 881--898
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 870--888
 [][]
  []
 
 [33]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 900--917
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 890--910
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 919--940
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 912--933
 [][]
  []
 
 [34] [35]
-Underfull \hbox (badness 10000) in paragraph at lines 949--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--945
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 949--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--945
 
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 954--987
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 947--980
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 989--1015
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 982--1008
 [][]
  []
 
 [36]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1017--1048
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1010--1041
 [][]
  []
 
 [37]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1050--1067
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1043--1061
 [][]
  []
 
 [38]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1069--1086
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1063--1083
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1088--1105
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1085--1106
 [][]
  []
 
 [39]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1107--1124
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1126--1155
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1108--1137
 [][]
  []
 
 [40]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1157--1174
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1139--1157
 [][]
  []
 
 [41]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1176--1193
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1159--1179
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1195--1212
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1181--1200
 [][]
  []
 
 [42]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1214--1231
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1202--1221
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1233--1250
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1223--1244
 [][]
  []
 
 [43]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1252--1269
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1272--1289
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1246--1267
 [][]
  []
 
 [44]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1291--1316
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1318--1335
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1270--1295
 [][]
  []
 
 [45]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1337--1354
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1297--1314
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1356--1380
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1316--1336
 [][]
  []
 
 [46]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1382--1399
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1401--1422
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1338--1362
 [][]
  []
 
 [47]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1424--1451
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1364--1384
 [][]
  []
 
 [48]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1453--1470
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1386--1407
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1409--1436
 [][]
  []
 
 [49]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1472--1494
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1496--1521
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1438--1460
 [][]
  []
 
 [50]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1523--1540
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1462--1484
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1542--1559
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1486--1511
 [][]
  []
 
 [51]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1561--1578
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1513--1533
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1580--1597
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1535--1556
 [][]
  []
 
 [52]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1599--1616
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1558--1577
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1618--1635
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1579--1598
 [][]
  []
 
 [53]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1637--1654
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1656--1673
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1600--1625
 [][]
  []
 
 [54]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1675--1692
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1694--1711
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1627--1652
 [][]
  []
 
 [55]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1713--1730
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1732--1749
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1654--1674
 [][]
  []
 
 [56]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1751--1768
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1677--1697
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1770--1787
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1700--1720
 [][]
  []
 
-[57]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1789--1806
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1808--1825
-[][]
- []
-
-[58]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1827--1844
+[57] [58]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1731--1751
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1846--1863
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1753--1773
 [][]
  []
 
 [59]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1865--1882
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1775--1794
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1884--1901
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1796--1818
 [][]
  []
 
 [60]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1903--1920
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1820--1849
 [][]
  []
 
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1922--1942
+[61]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1851--1870
 [][]
  []
 
-[61] [62]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1953--1970
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1972--1989
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 1991--2008
+[62]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1872--1900
 [][]
  []
 
 [63]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2010--2027
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2029--2058
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1902--1927
 [][]
  []
 
 [64]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2060--2077
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2079--2107
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1929--1949
 [][]
  []
 
 [65]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2109--2134
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1951--1971
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1973--1990
 [][]
  []
 
 [66]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2136--2153
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 1992--2012
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2155--2172
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2014--2037
 [][]
  []
 
 [67]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2174--2191
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2039--2059
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2193--2210
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2061--2082
 [][]
  []
 
 [68]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2212--2235
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2084--2109
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2237--2254
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2111--2139
 [][]
  []
 
 [69]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2256--2277
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2279--2304
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2141--2162
 [][]
  []
 
 [70]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2306--2334
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2164--2185
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2187--2208
 [][]
  []
 
 [71]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2336--2353
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2210--2235
 [][]
  []
 
 [72]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2355--2372
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2374--2391
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2237--2263
 [][]
  []
 
 [73]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2393--2418
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2420--2445
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2265--2282
 [][]
  []
 
 [74]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2447--2464
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2466--2483
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2284--2313
 [][]
  []
 
 [75]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2485--2514
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2315--2335
 [][]
  []
 
 [76]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2516--2536
-[][]
- []
-
-[77]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2538--2559
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2337--2358
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2561--2578
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2360--2381
 [][]
  []
 
-[78] [79]
-Overfull \hbox (14.73763pt too wide) in paragraph at lines 2588--2611
+[77] [78]
+Overfull \hbox (14.73763pt too wide) in paragraph at lines 2391--2414
 []
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2613--2630
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2417--2438
+[][]
+ []
+
+[79]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2440--2461
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2632--2649
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2463--2484
 [][]
  []
 
 [80]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2651--2668
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2670--2691
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2486--2513
 [][]
  []
 
 [81]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2693--2714
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2716--2737
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2515--2542
 [][]
  []
 
 [82]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2739--2766
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2544--2565
 [][]
  []
 
 [83]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2768--2795
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2567--2594
 [][]
  []
 
 [84]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2797--2818
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2596--2623
 [][]
  []
 
 [85]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2820--2847
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2625--2646
 [][]
  []
 
 [86]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2849--2876
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2648--2675
 [][]
  []
 
 [87]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2878--2899
-[][]
- []
-
-[88]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2901--2928
-[][]
- []
-
-[89]
-Underfull \hbox (badness 1082) in paragraph at lines 2937--2937
+Underfull \hbox (badness 1082) in paragraph at lines 2684--2684
 []|\OT1/cmr/m/n/10.95 Que ha-ya diagn^^Sosti-cos pre-vios a~nadi-dos, que est^^
 Se se-lec-cio-na-do el
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2930--2957
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2677--2704
+[][]
+ []
+
+[88]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2706--2724
+[][]
+ []
+
+[89]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2726--2747
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2749--2776
 [][]
  []
 
 [90]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2959--2976
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 2978--2999
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2778--2805
 [][]
  []
 
 [91]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3001--3028
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2807--2825
 [][]
  []
 
 [92]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3030--3057
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2827--2848
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2850--2877
 [][]
  []
 
 [93]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3059--3076
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3078--3099
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2879--2906
 [][]
  []
 
 [94]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3101--3128
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2908--2926
 [][]
  []
 
 [95]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3130--3157
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2928--2949
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2951--2978
 [][]
  []
 
 [96]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3159--3176
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3178--3199
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 2980--3007
 [][]
  []
 
 [97]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3201--3228
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3009--3027
 [][]
  []
 
 [98]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3230--3257
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3029--3048
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3050--3072
 [][]
  []
 
 [99]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3259--3276
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3074--3095
 [][]
  []
 
 [100]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3278--3295
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3297--3319
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3097--3124
 [][]
  []
 
 [101]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3321--3342
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3126--3145
 [][]
  []
 
 [102]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3344--3371
-[][]
- []
-
-[103]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3373--3390
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3147--3164
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3392--3409
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3166--3185
 [][]
  []
 
-[104]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3411--3428
+[103] [104]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3197--3221
+[][]
+ []
+
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3223--3247
 [][]
  []
 
 [105]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3440--3464
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3466--3483
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3249--3272
 [][]
  []
 
 [106]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3485--3502
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3504--3521
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3274--3297
 [][]
  []
 
 [107]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3523--3540
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3542--3559
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3299--3322
 [][]
  []
 
 [108]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3561--3578
-[][]
- []
-
-
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3580--3597
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3324--3346
 [][]
  []
 
 [109]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3599--3621
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3348--3366
 [][]
  []
 
 
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3623--3645
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3368--3389
 [][]
  []
 
 [110]
-Overfull \hbox (24.73763pt too wide) in paragraph at lines 3647--3669
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3391--3413
 [][]
  []
 
-[111] (./casosuso.aux) ) 
+
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3415--3437
+[][]
+ []
+
+[111]
+Overfull \hbox (24.73763pt too wide) in paragraph at lines 3439--3461
+[][]
+ []
+
+[112] (./casosuso.aux) ) 
 Here is how much of TeX's memory you used:
- 2701 strings out of 493747
- 40145 string characters out of 3143546
- 110224 words of memory out of 3000000
- 5925 multiletter control sequences out of 15000+200000
- 9615 words of font info for 34 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 38i,10n,27p,764b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2010/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsl10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfont
-s/latxfont/lasy10.pfb>
-Output written on casosuso.pdf (111 pages, 1511265 bytes).
+ 2854 strings out of 493633
+ 42437 string characters out of 3143377
+ 113209 words of memory out of 3000000
+ 6080 multiletter control sequences out of 15000+200000
+ 9974 words of font info for 35 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,10n,27p,772b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbxti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/latxfont/lasy10.pfb>
+Output written on casosuso.pdf (112 pages, 1500484 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
+ 428 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

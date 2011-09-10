@@ -1,0 +1,108 @@
+<mockup version="1.0" skin="sketch" measuredW="1101" measuredH="601" mockupW="800" mockupH="601">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="301" y="0" w="800" h="601" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MedicalTags%0Ahttp%3A//www.medicaltags.com/paciente</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="587" y="136" w="229" h="154" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="337" y="553" w="728" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="334" y="116" w="-1" h="-1" measuredW="169" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ficha%20M%E9dica%2C%20Exploraci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TabBar" x="334" y="161" w="734" h="342" measuredW="796" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <size>13</size>
+        <text>Inf.%20personal%2C%20Antecedentes%2C%20Enf.%20actual%2C%20Exploraci%F3n%2C%20Pruebas%2C%20Diagn%F3sticos%2C%20Tratamientos%2C%20Informes%2C%20Historial</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::SubTitle" x="358" y="197" w="390" h="-1" measuredW="390" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Inspecci%F3n%20y%20caracter%EDsticas%20morfol%F3gicas</text>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::TextInput" x="373" y="269" w="43" h="-1" measuredW="40" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Peso</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::TextInput" x="373" y="302" w="45" h="-1" measuredW="42" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Talla</text>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::TextInput" x="373" y="340" w="116" h="-1" measuredW="108" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tensi%F3n%20arterial</text>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::TextArea" x="555" y="269" w="215" h="86" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marcas</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::TextArea" x="555" y="368" w="215" h="90" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cicatrices</text>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::TextArea" x="817" y="271" w="215" h="81" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deformidades</text>
+      </controlProperties>
+    </control>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::TextArea" x="817" y="369" w="215" h="85" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deambulaci%F3n%20%28Forma%20de%20caminar%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::Button" x="894" y="459" w="75" h="31" measuredW="75" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Imprimir</text>
+      </controlProperties>
+    </control>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::Button" x="977" y="459" w="76" h="31" measuredW="76" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exportar</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="541" w="731" h="-1" measuredW="50" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="72" w="472" h="29" measuredW="426" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Tablero%2C%20Calendario%2C%20M%E9dicos%2C%20Ficha%20m%E9dica%2C%20Hist%F3rico</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::LinkBar" x="836" y="74" w="-1" h="-1" measuredW="258" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1_inicio%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%2C4_Tour%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22535%2C74%2C622%2C97%22%20href%3D%221_inicio.bmml%22%20alt%3D%221_inicio%22%20id%3D%22224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22642%2C74%2C730%2C97%22%20href%3D%224_Tour.bmml%22%20alt%3D%224_Tour%22%20id%3D%22224_1%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>pb@gmail.com%2C%20Cerrar%20Sesi%F3n%2C%20Congig</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::TextInput" x="373" y="373" w="47" h="-1" measuredW="44" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pulso</text>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::TextInput" x="373" y="413" w="97" h="-1" measuredW="90" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Temperatura</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::Label" x="379" y="233" w="-1" h="-1" measuredW="189" measuredH="23" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha%20de%20la%20%FAltima%20exploraci%F3n</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

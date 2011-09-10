@@ -1,0 +1,157 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}An\IeC {\'a}lisis}{2}
+\contentsline {section}{\numberline {1.1}Descripci\IeC {\'o}n general del proyecto}{3}
+\contentsline {subsection}{\numberline {1.1.1}Usuarios}{3}
+\contentsline {subsection}{\numberline {1.1.2}Objetivos}{3}
+\contentsline {section}{\numberline {1.2}Lista de caracter\IeC {\'\i }sticas}{4}
+\contentsline {subsection}{\numberline {1.2.1}Descripci\IeC {\'o}n de las caracter\IeC {\'\i }sticas}{4}
+\contentsline {subsection}{\numberline {1.2.2}Categor\IeC {\'\i }as}{5}
+\contentsline {subsection}{\numberline {1.2.3}Lista de caracter\IeC {\'\i }sticas}{5}
+\contentsline {subsubsection}{\numberline {1.2.3.1}A.- Gesti\IeC {\'o}n de actividades generales.}{5}
+\contentsline {subsubsection}{\numberline {1.2.3.2}B.- Gesti\IeC {\'o}n de informaci\IeC {\'o}n de m\IeC {\'e}dicos.}{9}
+\contentsline {subsubsection}{\numberline {1.2.3.3}C.- Actividades de los m\IeC {\'e}dicos.}{10}
+\contentsline {subsubsection}{\numberline {1.2.3.4}D.- Gesti\IeC {\'o}n de pacientes.}{11}
+\contentsline {subsubsection}{\numberline {1.2.3.5}E.- Gesti\IeC {\'o}n de fichas m\IeC {\'e}dicas de pacientes.}{12}
+\contentsline {subsubsection}{\numberline {1.2.3.6}F.- Gesti\IeC {\'o}n de horarios del m\IeC {\'e}dico.}{15}
+\contentsline {subsubsection}{\numberline {1.2.3.7}G.- Gesti\IeC {\'o}n de citas de los pacientes.}{18}
+\contentsline {subsubsection}{\numberline {1.2.3.8}H.- Consultas y diagn\IeC {\'o}sticos.}{21}
+\contentsline {subsubsection}{\numberline {1.2.3.9}I.- Cobros y pagos.}{24}
+\contentsline {subsubsection}{\numberline {1.2.3.10}J.- Gesti\IeC {\'o}n de la contabilidad.}{25}
+\contentsline {subsubsection}{\numberline {1.2.3.11}K.- Panel de Administrador.}{26}
+\contentsline {subsubsection}{\numberline {1.2.3.12}L.- Otros.}{28}
+\contentsline {section}{\numberline {1.3}Modelo del dominio}{30}
+\contentsline {subsection}{\numberline {1.3.1}Flujo del problema}{30}
+\contentsline {subsection}{\numberline {1.3.2}Diagrama del Modelo del Dominio}{30}
+\contentsline {subsection}{\numberline {1.3.3}Glosario}{31}
+\contentsline {section}{\numberline {1.4}Casos de uso}{33}
+\contentsline {subsection}{\numberline {1.4.1}Introducci\IeC {\'o}n}{33}
+\contentsline {subsection}{\numberline {1.4.2}Diagramas de casos de uso}{33}
+\contentsline {subsubsection}{\numberline {1.4.2.1}Actores}{34}
+\contentsline {subsubsection}{\numberline {1.4.2.2}Actividades Generales}{34}
+\contentsline {paragraph}{Registro e informaci\IeC {\'o}n}{34}
+\contentsline {paragraph}{Caracter\IeC {\'\i }sticas generales}{35}
+\contentsline {paragraph}{Acceso y Autentificaci\IeC {\'o}n}{35}
+\contentsline {subsubsection}{\numberline {1.4.2.3}Actividades de los m\IeC {\'e}dicos}{37}
+\contentsline {paragraph}{Panel de Configuraci\IeC {\'o}n de los m\IeC {\'e}dicos}{37}
+\contentsline {paragraph}{Gesti\IeC {\'o}n del Calendario del m\IeC {\'e}dico}{39}
+\contentsline {paragraph}{Gesti\IeC {\'o}n de pacientes}{39}
+\contentsline {paragraph}{Gesti\IeC {\'o}n de estad\IeC {\'\i }sticas}{40}
+\contentsline {paragraph}{Administraci\IeC {\'o}n y Gesti\IeC {\'o}n del Centro m\IeC {\'e}dico}{40}
+\contentsline {subsubsection}{\numberline {1.4.2.4}Actividades de los pacientes}{41}
+\contentsline {paragraph}{Calendario del Paciente}{41}
+\contentsline {paragraph}{Gesti\IeC {\'o}n de m\IeC {\'e}dicos del paciente}{42}
+\contentsline {paragraph}{Ficha m\IeC {\'e}dica}{42}
+\contentsline {paragraph}{Panel de configuraci\IeC {\'o}n del paciente}{44}
+\contentsline {subsubsection}{\numberline {1.4.2.5}Gesti\IeC {\'o}n de fichas m\IeC {\'e}dicas}{45}
+\contentsline {paragraph}{Informaci\IeC {\'o}n Personal}{45}
+\contentsline {paragraph}{Antecedentes}{46}
+\contentsline {paragraph}{Exploraci\IeC {\'o}n}{46}
+\contentsline {paragraph}{Diagn\IeC {\'o}sticos}{47}
+\contentsline {paragraph}{Tratamientos}{47}
+\contentsline {paragraph}{Informes}{48}
+\contentsline {paragraph}{Observaciones}{48}
+\contentsline {paragraph}{Historial de la ficha}{49}
+\contentsline {paragraph}{Pruebas}{49}
+\contentsline {subsubsection}{\numberline {1.4.2.6}Panel del Administrador}{52}
+\contentsline {subsection}{\numberline {1.4.3}Descripci\IeC {\'o}n formal de los Casos de Uso}{53}
+\contentsline {subsubsection}{\numberline {1.4.3.1}Estructura de la descripci\IeC {\'o}n}{53}
+\contentsline {subsubsection}{\numberline {1.4.3.2}Descripci\IeC {\'o}n de los casos de uso}{54}
+\contentsline {paragraph}{Actores}{54}
+\contentsline {paragraph}{Actividades Generales (GAG)}{55}
+\contentsline {paragraph}{Actividades de los m\IeC {\'e}dicos (GAM)}{68}
+\contentsline {paragraph}{Actividades de los pacientes (GAP)}{91}
+\contentsline {paragraph}{Gesti\IeC {\'o}n de fichas m\IeC {\'e}dicas (GFM)}{111}
+\contentsline {paragraph}{Panel del administrador (GPA)}{137}
+\contentsline {section}{\numberline {1.5}Diagramas de colaboraci\IeC {\'o}n}{145}
+\contentsline {subsection}{\numberline {1.5.1}Colaboraciones de las Actividades Generales}{146}
+\contentsline {subsection}{\numberline {1.5.2}Colaboraciones de los M\IeC {\'e}dicos}{151}
+\contentsline {subsection}{\numberline {1.5.3}Colaboraciones de los Pacientes}{160}
+\contentsline {subsection}{\numberline {1.5.4}Colaboraciones de las Fichas M\IeC {\'e}dicas}{164}
+\contentsline {subsection}{\numberline {1.5.5}Colaboraciones del Administrador}{170}
+\contentsline {section}{\numberline {1.6}Diagrama de clases del an\IeC {\'a}lisis}{171}
+\contentsline {subsection}{\numberline {1.6.1}Actividades generales}{171}
+\contentsline {subsection}{\numberline {1.6.2}M\IeC {\'e}dicos}{174}
+\contentsline {subsection}{\numberline {1.6.3}Pacientes}{178}
+\contentsline {subsection}{\numberline {1.6.4}Ficha m\IeC {\'e}dica}{180}
+\contentsline {subsection}{\numberline {1.6.5}Administrador}{182}
+\contentsline {section}{\numberline {1.7}Diagrama de capas}{183}
+\contentsline {chapter}{\numberline {2}Dise\IeC {\~n}o}{186}
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{187}
+\contentsline {subsection}{\numberline {2.1.1}Pasos a seguir}{189}
+\contentsline {section}{\numberline {2.2}Dise\IeC {\~n}o a nivel de componentes}{190}
+\contentsline {subsection}{\numberline {2.2.1}Introducci\IeC {\'o}n}{190}
+\contentsline {subsection}{\numberline {2.2.2}Diagrama de clases}{190}
+\contentsline {subsection}{\numberline {2.2.3}Diagramas de secuencia}{194}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Diagramas de secuencia de las Actividades Generales.}{194}
+\contentsline {paragraph}{Acceso y Autentificaci\IeC {\'o}n}{194}
+\contentsline {paragraph}{Registro}{196}
+\contentsline {paragraph}{Buscar M\IeC {\'e}dico}{198}
+\contentsline {paragraph}{Tour y resto de actividades}{198}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Diagramas de secuencia de los M\IeC {\'e}dicos.}{199}
+\contentsline {paragraph}{Configuraci\IeC {\'o}n del m\IeC {\'e}dico}{199}
+\contentsline {paragraph}{Calendario del m\IeC {\'e}dico}{201}
+\contentsline {paragraph}{Pacientes del m\IeC {\'e}dico}{202}
+\contentsline {paragraph}{Ver ficha m\IeC {\'e}dica}{203}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Diagramas de secuencia de los Pacientes.}{204}
+\contentsline {paragraph}{Configuraci\IeC {\'o}n del paciente}{204}
+\contentsline {paragraph}{Calendario del paciente}{205}
+\contentsline {paragraph}{M\IeC {\'e}dicos del paciente}{207}
+\contentsline {paragraph}{Ver ficha m\IeC {\'e}dica}{208}
+\contentsline {subsubsection}{\numberline {2.2.3.4}Diagramas de secuencia del Administradores.}{208}
+\contentsline {paragraph}{Respecto a los m\IeC {\'e}dicos}{208}
+\contentsline {paragraph}{Respecto a la edici\IeC {\'o}n de informaci\IeC {\'o}n varia}{209}
+\contentsline {subsubsection}{\numberline {2.2.3.5}Diagramas de secuencia de las Fichas m\IeC {\'e}dicas.}{209}
+\contentsline {section}{\numberline {2.3}Dise\IeC {\~n}o de la arquitectura}{212}
+\contentsline {subsection}{\numberline {2.3.1}Diagrama de despliegue}{212}
+\contentsline {subsection}{\numberline {2.3.2}Diagrama de capas de dise\IeC {\~n}o}{213}
+\contentsline {section}{\numberline {2.4}Dise\IeC {\~n}o de navegaci\IeC {\'o}n}{216}
+\contentsline {subsection}{\numberline {2.4.1}Introducci\IeC {\'o}n}{216}
+\contentsline {subsection}{\numberline {2.4.2}Tipos de men\IeC {\'u}s de Navegaci\IeC {\'o}n}{216}
+\contentsline {subsection}{\numberline {2.4.3}Navegaci\IeC {\'o}n r\IeC {\'a}pida y lineal}{217}
+\contentsline {subsection}{\numberline {2.4.4}Aspectos a tener en cuenta en el dise\IeC {\~n}o de men\IeC {\'u}s de navegaci\IeC {\'o}n}{217}
+\contentsline {paragraph}{Clara}{217}
+\contentsline {paragraph}{Simple}{217}
+\contentsline {subsection}{\numberline {2.4.5}Dise\IeC {\~n}o de men\IeC {\'u}s de navegaci\IeC {\'o}n}{218}
+\contentsline {subsubsection}{\numberline {2.4.5.1}Men\IeC {\'u}s de navegaci\IeC {\'o}n de los m\IeC {\'e}dicos.}{219}
+\contentsline {subsubsection}{\numberline {2.4.5.2}Men\IeC {\'u}s de navegaci\IeC {\'o}n de los pacientes.}{224}
+\contentsline {subsubsection}{\numberline {2.4.5.3}Men\IeC {\'u}s de navegaci\IeC {\'o}n de los administradores.}{228}
+\contentsline {subsubsection}{\numberline {2.4.5.4}Men\IeC {\'u}s de navegaci\IeC {\'o}n de las fichas m\IeC {\'e}dicas.}{231}
+\contentsline {subsubsection}{\numberline {2.4.5.5}Men\IeC {\'u}s de navegaci\IeC {\'o}n generales.}{235}
+\contentsline {section}{\numberline {2.5}Dise\IeC {\~n}o de contenido}{238}
+\contentsline {subsection}{\numberline {2.5.1}Introducci\IeC {\'o}n}{238}
+\contentsline {paragraph}{Contenido textual}{238}
+\contentsline {paragraph}{Contenido gr\IeC {\'a}fico y multimedia}{238}
+\contentsline {section}{\numberline {2.6}Dise\IeC {\~n}o gr\IeC {\'a}fico}{240}
+\contentsline {subsection}{\numberline {2.6.1}Introducci\IeC {\'o}n}{240}
+\contentsline {subsection}{\numberline {2.6.2}Aspectos que se tienen en cuenta}{240}
+\contentsline {section}{\numberline {2.7}Dise\IeC {\~n}o de la interfaz de usuario}{242}
+\contentsline {subsection}{\numberline {2.7.1}Introducci\IeC {\'o}n}{242}
+\contentsline {subsection}{\numberline {2.7.2}Fundamentos para el dise\IeC {\~n}o de las interfaces}{242}
+\contentsline {paragraph}{Reglas de oro}{242}
+\contentsline {subsection}{\numberline {2.7.3}Dise\IeC {\~n}o de las interfaces}{243}
+\contentsline {subsubsection}{\numberline {2.7.3.1}Interfaz p\IeC {\'u}blica}{244}
+\contentsline {subparagraph}{Pantalla de inicio}{244}
+\contentsline {subparagraph}{Tour de la aplicaci\IeC {\'o}n}{245}
+\contentsline {subparagraph}{Contacto}{246}
+\contentsline {subparagraph}{T\IeC {\'e}rminos legales, Condiciones de uso y Preguntas frecuentes}{246}
+\contentsline {subparagraph}{Registro y acceso}{247}
+\contentsline {subsubsection}{\numberline {2.7.3.2}Panel del m\IeC {\'e}dico}{249}
+\contentsline {subparagraph}{Tablero}{250}
+\contentsline {subparagraph}{Calendario}{253}
+\contentsline {subparagraph}{Pacientes}{256}
+\contentsline {subparagraph}{Estad\IeC {\'\i }sticas}{256}
+\contentsline {subparagraph}{Administraci\IeC {\'o}n}{258}
+\contentsline {subparagraph}{Configuraci\IeC {\'o}n}{261}
+\contentsline {subsubsection}{\numberline {2.7.3.3}Panel del paciente}{263}
+\contentsline {subparagraph}{Tablero}{264}
+\contentsline {subparagraph}{Calendario}{264}
+\contentsline {subparagraph}{M\IeC {\'e}dicos}{266}
+\contentsline {subparagraph}{Historial}{266}
+\contentsline {subparagraph}{Configuraci\IeC {\'o}n}{267}
+\contentsline {subsubsection}{\numberline {2.7.3.4}Ficha m\IeC {\'e}dica}{267}
+\contentsline {subparagraph}{Antecedentes}{270}
+\contentsline {subparagraph}{Enfermedad actual}{270}
+\contentsline {subparagraph}{Exploraci\IeC {\'o}n}{272}
+\contentsline {subparagraph}{Pruebas}{272}
+\contentsline {paragraph}{Diagn\IeC {\'o}sticos}{275}
+\contentsline {subsubsection}{\numberline {2.7.3.5}Panel del Administrador}{275}

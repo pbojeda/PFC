@@ -1,0 +1,128 @@
+<mockup version="1.0" skin="sketch" measuredW="1098" measuredH="601" mockupW="800" mockupH="601">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="298" y="0" w="800" h="601" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MedicalTags%0Ahttp%3A//www.medicaltags.com/medico</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="587" y="187" w="229" h="138" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="337" y="553" w="728" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::VRule" x="450" y="149" w="-1" h="377" measuredW="5" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Title" x="478" y="149" w="69" h="-1" measuredW="66" measuredH="37" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="488" y="188" w="577" h="277" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Image" x="528" y="214" w="64" h="66" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Label" x="605" y="214" w="52" h="27" measuredW="50" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="605" y="237" w="38" h="27" measuredW="57" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Apellidos</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="528" y="285" w="105" h="27" measuredW="100" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%20de%20Colegiado</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="528" y="307" w="277" h="27" measuredW="264" measuredH="23" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Datos%20de%20localizaci%F3n%20de%20la%20consulta%20m%E9dica</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="528" y="331" w="259" h="27" measuredW="247" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Datos%20de%20contacto%20de%20la%20consulta%20m%E9dica</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Button" x="528" y="404" w="111" h="32" measuredW="106" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adjuntar%20foto</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Button" x="698" y="404" w="137" h="32" measuredW="144" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adjuntar%20curriculum</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Link" x="528" y="358" w="-1" h="-1" measuredW="93" measuredH="23" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ver%20curriculum</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Button" x="880" y="404" w="124" h="32" measuredW="118" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modificar%20Datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Link" x="337" y="172" w="-1" h="-1" measuredW="39" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Link" x="337" y="199" w="-1" h="-1" measuredW="47" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cuenta</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Link" x="337" y="253" w="-1" h="-1" measuredW="102" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20titulaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Link" x="337" y="225" w="-1" h="-1" measuredW="47" measuredH="23" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Horario</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Link" x="336" y="280" w="-1" h="-1" measuredW="86" measuredH="23" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notificaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Link" x="337" y="306" w="-1" h="-1" measuredW="49" measuredH="23" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Motivos</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="541" w="731" h="-1" measuredW="50" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="72" w="472" h="29" measuredW="465" measuredH="29" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Tablero%2C%20Calendario%2C%20Pacientes%2C%20Estad%EDsticas%2C%20Administraci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="325" y="111" w="-1" h="-1" measuredW="208" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Configuraci%F3n%2C%20Configurar%20Datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::LinkBar" x="836" y="74" w="-1" h="-1" measuredW="258" measuredH="23" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1_inicio%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%2C4_Tour%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22538%2C74%2C625%2C97%22%20href%3D%221_inicio.bmml%22%20alt%3D%221_inicio%22%20id%3D%22113_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22645%2C74%2C733%2C97%22%20href%3D%224_Tour.bmml%22%20alt%3D%224_Tour%22%20id%3D%22113_1%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>pb@gmail.com%2C%20Cerrar%20Sesi%F3n%2C%20Congig</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="605" y="258" w="105" h="22" measuredW="29" measuredH="23" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DNI</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

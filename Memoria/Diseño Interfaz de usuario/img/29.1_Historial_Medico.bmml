@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" measuredW="1101" measuredH="601" mockupW="800" mockupH="601">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="301" y="0" w="800" h="601" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MedicalTags%0Ahttp%3A//www.medicaltags.com/paciente</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="587" y="187" w="229" h="138" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="337" y="553" w="728" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="330" y="116" w="-1" h="-1" measuredW="257" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paciente%2C%20Ficha%20M%E9dica%2C%20Observaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TabBar" x="324" y="147" w="762" h="344" measuredW="823" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>9</selectedIndex>
+        <size>12</size>
+        <text>Inf.%20personal%2C%20Antecedentes%2C%20Enf.%20actual%2C%20Exploraci%F3n%2C%20Pruebas%2C%20Diagn%F3sticos%2C%20Tratamientos%2C%20Informes%2C%20Historial%2C%20Observaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::TextArea" x="355" y="192" w="550" h="278" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%DAltimas%20observaciones%20que%20cada%20m%E9dico%20tiene%20para%20el%20paciente</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Button" x="920" y="251" w="-1" h="-1" measuredW="135" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%F1adir%20observaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Button" x="920" y="286" w="-1" h="-1" measuredW="75" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Imprimir</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Button" x="920" y="325" w="-1" h="-1" measuredW="76" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exportar</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="541" w="731" h="-1" measuredW="50" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="72" w="472" h="29" measuredW="465" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Tablero%2C%20Calendario%2C%20Pacientes%2C%20Estad%EDsticas%2C%20Administraci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::LinkBar" x="836" y="74" w="-1" h="-1" measuredW="258" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1_inicio%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%2C4_Tour%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22535%2C74%2C622%2C97%22%20href%3D%221_inicio.bmml%22%20alt%3D%221_inicio%22%20id%3D%22198_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22642%2C74%2C730%2C97%22%20href%3D%224_Tour.bmml%22%20alt%3D%224_Tour%22%20id%3D%22198_1%22/%3E%0A</map>
+        <text>pb@gmail.com%2C%20Cerrar%20Sesi%F3n%2C%20Congig</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

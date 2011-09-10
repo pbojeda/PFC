@@ -1,0 +1,87 @@
+<mockup version="1.0" skin="sketch" measuredW="1101" measuredH="601" mockupW="800" mockupH="601">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="301" y="0" w="800" h="601" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MedicalTags%0Ahttp%3A//www.medicaltags.com/medico</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="587" y="187" w="229" h="138" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="541" w="731" h="-1" measuredW="50" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="337" y="553" w="728" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="72" w="472" h="29" measuredW="465" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tablero%2C%20Calendario%2C%20Pacientes%2C%20Estad%EDsticas%2C%20Administraci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::VRule" x="459" y="138" w="-1" h="388" measuredW="5" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Title" x="479" y="129" w="213" h="-1" measuredW="189" measuredH="56" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bienvenido</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="497" y="199" w="565" h="263" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="516" y="214" w="426" h="27" measuredW="377" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ahora%20vamos%20a%20realizar%20la%20configuraci%F3n%20inicial%20de%20su%20Consulta.</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextArea" x="535" y="276" w="497" h="86" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Para%20que%20su%20consulta%20sea%20visible%20a%20todos%20los%20usuarios%2C%20debe%20enviarnos%20su%20titulaci%F3n%20m%E9dica%20y%20n%BA%20de%20colegiado.%20En%20cuanto%20est%E9%20confirmada%20podr%E1%20comenzar%20a%20utilizar%20el%20servicio.%20Puede%20hacerlo%20en%20cualquier%20momento%20desde%20la%20opci%F3n%20%22Configuraci%F3n%22%2C%20situada%20en%20la%20parte%20superior%20derecha.</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextArea" x="535" y="366" w="497" h="67" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Debe%20configurar%20su%20horario%20de%20disponibilidad.%20Podr%E1%20hacerlo%20en%20cualquier%20momento%20desde%20la%20opci%F3n%20%22Configuraci%F3n%22%2C%20situado%20en%20la%20parte%20superior%20derecha%20o%20directamente%20desde%20el%20%22Calendario.</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="325" y="111" w="-1" h="-1" measuredW="140" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inicio%2C%20Primer%20acceso</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Link" x="337" y="162" w="-1" h="-1" measuredW="83" measuredH="23" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ver%20Resumen</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Link" x="337" y="189" w="-1" h="-1" measuredW="93" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>11_Dashboard_Medico_Tablero_Paciente%26bm%3B11_Dashboard_Medico_Tablero_Paciente.bmml%26bm%3B11_Dashboard_Medico_Tablero_Paciente.bmml%26bm%3B11_Dashboard_Medico_Tablero_Paciente.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C189%2C129%2C212%22%20href%3D%2211_Dashboard_Medico_Tablero_Paciente.bmml%22%20alt%3D%2211_Dashboard_Medico_Tablero_Paciente%22%20id%3D%2247%22/%3E</map>
+        <text>Proximas%20Citas</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Link" x="337" y="217" w="-1" h="-1" measuredW="50" measuredH="23" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%DAltimas</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Link" x="337" y="244" w="-1" h="-1" measuredW="99" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar%20paciente</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Link" x="387" y="215" w="-1" h="-1" measuredW="76" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Estad%EDsticas</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::LinkBar" x="836" y="74" w="-1" h="-1" measuredW="258" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>1_inicio%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%26bm%3B1_inicio.bmml%2C4_Tour%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%26bm%3B4_Tour.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22535%2C74%2C622%2C97%22%20href%3D%221_inicio.bmml%22%20alt%3D%221_inicio%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22642%2C74%2C730%2C97%22%20href%3D%224_Tour.bmml%22%20alt%3D%224_Tour%22%20id%3D%2257_1%22/%3E%0A</map>
+        <text>pb@gmail.com%2C%20Cerrar%20Sesi%F3n%2C%20Congig</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextArea" x="535" y="245" w="497" h="26" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Debe%20rellenar%20los%20datos%20personales%20y%20los%20de%20su%20consulta%20%28Oblligatorio%29.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

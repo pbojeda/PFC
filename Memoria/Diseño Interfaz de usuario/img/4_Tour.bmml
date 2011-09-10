@@ -1,0 +1,128 @@
+<mockup version="1.0" skin="sketch" measuredW="1101" measuredH="601" mockupW="800" mockupH="601">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="301" y="0" w="800" h="601" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MedicalTags%0Ahttp%3A//www.medicaltags.com/tour</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="337" y="84" w="265" h="49" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo%20MedicalTalgs</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="587" y="187" w="229" h="138" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::LinkBar" x="745" y="96" w="-1" h="-1" measuredW="320" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inicio%2C%20Tour%2C%20Contacto%2C%20FAQ%2C%20Iniciar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="431" y="496" w="-1" h="-1" measuredW="186" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reg%EDstrate%20como%20PACIENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="788" y="496" w="186" h="28" measuredW="176" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reg%EDstrate%20como%20M%C9DICO</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="583" y="543" w="-1" h="-1" measuredW="236" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>T%E9rminos%20legales%20%7C%20Condiciones%20de%20Uso</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="337" y="553" w="728" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="416" y="163" w="-1" h="-1" measuredW="101" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Busca%20t%FA%20m%E9dico</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="773" y="163" w="-1" h="-1" measuredW="155" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20de%20agenda%20online</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="416" y="186" w="42" h="45" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="773" y="185" w="42" h="45" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::ScratchOut" x="473" y="186" w="162" h="52" measuredW="205" measuredH="107" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::ScratchOut" x="830" y="182" w="162" h="52" measuredW="205" measuredH="107" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="__group__" x="416" y="242" w="576" h="71" measuredW="576" measuredH="71" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="77" measuredH="23" zOrder="0" locked="false" isInGroup="61">
+          <controlProperties>
+            <text>Citas%20Online</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="357" y="0" w="-1" h="-1" measuredW="169" measuredH="23" zOrder="1" locked="false" isInGroup="61">
+          <controlProperties>
+            <text>Gesti%F3n%20de%20pacientes%20online</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="0" y="23" w="42" h="45" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="61">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="357" y="22" w="42" h="45" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="61">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ScratchOut" x="57" y="19" w="162" h="52" measuredW="205" measuredH="107" zOrder="4" locked="false" isInGroup="61"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::ScratchOut" x="414" y="19" w="162" h="52" measuredW="205" measuredH="107" zOrder="5" locked="false" isInGroup="61"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="419" y="318" w="-1" h="-1" measuredW="119" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ficha%20m%E9dica%20online</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="776" y="318" w="-1" h="-1" measuredW="155" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20del%20centro%20online</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Image" x="419" y="341" w="42" h="45" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="776" y="340" w="42" h="45" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::ScratchOut" x="476" y="341" w="162" h="52" measuredW="205" measuredH="107" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::ScratchOut" x="827" y="341" w="162" h="52" measuredW="205" measuredH="107" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="419" y="395" w="-1" h="-1" measuredW="130" measuredH="23" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exportaci%F3n%20de%20datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="776" y="395" w="-1" h="-1" measuredW="86" measuredH="23" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notificaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="419" y="418" w="42" h="45" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="776" y="417" w="42" h="45" measuredW="77" measuredH="79" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::ScratchOut" x="476" y="418" w="162" h="52" measuredW="205" measuredH="107" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::ScratchOut" x="827" y="418" w="162" h="52" measuredW="205" measuredH="107" zOrder="26" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
